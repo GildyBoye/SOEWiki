@@ -10,31 +10,31 @@
 
 To do Ancient Demon Quest its recommended to bring a good blocker and a big group of shooters. As you will have to face strong mobs and a final boss.
 
-<figure><img src="../../.gitbook/assets/image (722).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (715).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
 
 When you reached the point you will have to kill **Abyssal Demons inside the circles**. It should be like that:
 
-<figure><img src="../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (717).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (726).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (719).png" alt=""><figcaption></figcaption></figure>
 
 Follow the way till you find the lever and open it.
 
-<figure><img src="../../.gitbook/assets/image (727).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (720).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (721).png" alt=""><figcaption></figcaption></figure>
 
 Go into the teleport. There is a safe spot before facing the boss.
 
-<figure><img src="../../.gitbook/assets/image (729).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (722).png" alt=""><figcaption></figcaption></figure>
 
 Care at this point. On the blue circle you will find the final boss **Ancient Demon**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (730).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
 
 When you are done with Ancient Demon go inside the teleport that will appear.
 
@@ -44,6 +44,6 @@ Congratulations. You gained access to Narnia.
 
 You can find Narnia on the floor down of the distance shop in Thais.
 
-<figure><img src="../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (724).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (732).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (725).png" alt=""><figcaption></figcaption></figure>

@@ -16,11 +16,11 @@
 * As waves of monsters spawn, you need to lure them to these crystals before killing them.&#x20;
 * After enough monsters have died by the crystals they will disappear. Once all of the crystals have disappeared the boss can be damaged.
 
-<div><figure><img src="../../.gitbook/assets/image (199).png" alt="" width="360"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (201).png" alt="" width="259"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (192).png" alt="" width="360"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (194).png" alt="" width="259"><figcaption></figcaption></figure></div>
 
 * Neptulos will regularly use large ground-based Area attacks, make sure not to stand inside the red squares!
 
-<figure><img src="../../.gitbook/assets/image (200).png" alt="" width="283"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt="" width="283"><figcaption></figcaption></figure>
 
 * To exit the arena after the boss is dead simply walk into the blue teleporter in the middle of the arena. It may be hard to see due to monster corpses. This will teleport you to Thais temple.
 

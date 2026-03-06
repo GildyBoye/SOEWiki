@@ -8,9 +8,9 @@
 
 This quest is a set of 5 missions provided by NPC Gilion. Gilion is located north of Rookgard close to the troll cave entrance, here.
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 On each mission Gilion will ask to collect some items and bring him back. You can either collect them by your self or just buy to other players.
 

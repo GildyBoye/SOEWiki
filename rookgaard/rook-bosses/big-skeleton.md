@@ -4,7 +4,7 @@ The Giant Skeleton is a big skeleton in Rookgaard, usually considered a boss its
 
 * Prerequisites: None
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 #### Directions <a href="#directions" id="directions"></a>
 
@@ -15,7 +15,7 @@ The Giant Skeleton can randomly spawn on many Rookgaard places (almost on every 
 * Skeletons on the premium area
 * Skeletons on the way to the Giant Mole
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 #### Strategies <a href="#strategies" id="strategies"></a>
 

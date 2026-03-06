@@ -4,7 +4,7 @@ Retinite is one of the first regular boss you will face in Rookgaard.
 
 * Prerequisites: Access to Skeleton Archers + Kill 150 skeleton archers
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### Directions <a href="#directions" id="directions"></a>
 
@@ -12,7 +12,7 @@ Retinite TP is located inside the skeleton archers area.
 
 Once there reach Marrow and follow these directions:
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 #### Strategies <a href="#strategies" id="strategies"></a>
 

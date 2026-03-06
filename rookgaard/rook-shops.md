@@ -10,7 +10,7 @@ On top of the regular NPCs shops located on the city and the surroundings there 
 
 **Requirements:** Buying Bo access on the Premium Shop (100 premium points)
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 **Trading list**
 
@@ -22,13 +22,13 @@ Bo, basically buys most of the creature products dropped from Rookgaard monsters
 
 **Requirements:** Skeleton Sewers
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 **Trading list**
 
 Narrow, don't buy nothing, but he sells important items in Rookgaard.
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 * The Simple arrow scroll will allow you to learn the Spell to conjure arrows in Rookgaard.
 * Destroy Field rune is need at some point during the Sword of Fury quest.
@@ -39,15 +39,15 @@ Narrow, don't buy nothing, but he sells important items in Rookgaard.
 
 **Requirements:** Elf Tower quest
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 **Trading list**
 
 Aelar, basically buys gems and other valuables at good prices, here is the list of items that this NPC buys.
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 ### Blackheart <a href="#blackheart" id="blackheart"></a>
 
@@ -55,15 +55,15 @@ Aelar, basically buys gems and other valuables at good prices, here is the list 
 
 **Requirements:** Steve quest
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 **Trading list**
 
 Blackheart, basically buys extremely rare and unique drops from bosses for really high prices, here is the list of items that this NPC buys.
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ### Cotton <a href="#cotton" id="cotton"></a>
 
@@ -71,7 +71,7 @@ Blackheart, basically buys extremely rare and unique drops from bosses for reall
 
 **Requirements:** Access to the secret shop
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 **Gaining Access**
 
@@ -87,14 +87,14 @@ Obi will redirect to NPC Nevik (the fisherman), talk with Nevik about it, and af
 
 Cotton, basically buys valuable equipment dropped from monsters and bosses at really good prices, here is the list of items that this NPC buys. Most of the times you will get more profit by selling these items to other players.
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (857).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (850).png" alt=""><figcaption></figcaption></figure>

@@ -142,8 +142,8 @@ icon: dagger
 
 * Beta Outfit - Beta tested SOE
 
-<figure><img src="../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (851).png" alt=""><figcaption></figcaption></figure>
 
 * Demon Fiend Outfit - Tournament top 5
 
-<figure><img src="../.gitbook/assets/image (859).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (852).png" alt=""><figcaption></figcaption></figure>

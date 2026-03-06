@@ -6,7 +6,7 @@ icon: treasure-chest
 
 ### Cursed Chests <a href="#cursed_chests" id="cursed_chests"></a>
 
-<figure><img src="../.gitbook/assets/image (637).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
 
 **Souls of Elysium** provides a new and interactive mini-dungeon system, Cursed Chests!
 

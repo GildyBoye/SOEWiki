@@ -10,19 +10,19 @@ icon: hand-holding-skull
 
 
 
-* Skull Coins![](<../../.gitbook/assets/image (533).png>)
+* Skull Coins![](<../../.gitbook/assets/image (526).png>)
 * One is obtained each time you kill a [Diabolic Creature](../diabolic-demonic-monsters.md) with a [Premium Account](../premium-account.md), or upon completion of [Cursed Chests](../../exploration/cursed-chests.md).
 * They can be traded in for valuable, rare, and unique rewards in Skull Coin Shop in Darashia.
 
 
 
-* Hourly Tokens![](<../../.gitbook/assets/image (532).png>)
+* Hourly Tokens![](<../../.gitbook/assets/image (525).png>)
 * One is awarded every online hour your level  20+ character is logged in for on a Premium Account.
 * They can be traded in for valuable, rare, and unique rewards in Hourly Shop Shop in Darashia.
 
 
 
-* Raid Tokens![](<../../.gitbook/assets/image (531).png>)
+* Raid Tokens![](<../../.gitbook/assets/image (524).png>)
 * Raid Tokens are dropped by creatures during raids and special events.
 * They can be traded in for valuable rewards at Leo's Enclave.
 
@@ -35,7 +35,7 @@ icon: hand-holding-skull
 
 
 
-![](<../../.gitbook/assets/image (481).png>)![](<../../.gitbook/assets/image (482).png>)
+![](<../../.gitbook/assets/image (474).png>)![](<../../.gitbook/assets/image (475).png>)
 
 | Item                                                     | Description                                          | Price |
 | -------------------------------------------------------- | ---------------------------------------------------- | ----- |
@@ -55,7 +55,7 @@ icon: hand-holding-skull
 * Located above the Skull Coin Shop.
 * Example: If you logged in at 12;00 and stayed till 15;24, you will get 3 hourly tokens. If you log out, the timer will be reset.
 
-<figure><img src="../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption></figcaption></figure>
 
 | Item                    | Description                                           | Price |
 | ----------------------- | ----------------------------------------------------- | ----- |
@@ -73,7 +73,7 @@ icon: hand-holding-skull
 * Raid Tokens are dropped by creatures during raids and special events.
 * Located in Leo's Enclave, two floors down.
 
-<figure><img src="../../.gitbook/assets/image (484).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
 
 | Item                 | Description                                                          | Price                   |
 | -------------------- | -------------------------------------------------------------------- | ----------------------- |

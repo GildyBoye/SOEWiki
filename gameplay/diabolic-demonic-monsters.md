@@ -8,7 +8,7 @@ icon: face-angry
 
 **Souls of Elysium** offers new and engaging mini-boss system, you will face many enemies who after death or during natural spawn can turn into stronger versions of themselves with additional abilities, health and damage.
 
-<div><figure><img src="../.gitbook/assets/image (534).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (536).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure></div>
 
 * Diabolics/Demonics will offer boosted loot tables, and access to unique ones, making them quite rewarding.
 * Additionally players with Premium Account will be able to gain [skull coins](skull-coins-hourly-tokens/) for each diabolic kill.

@@ -35,7 +35,7 @@ icon: clipboard-list
 * Here, you'll be able to select active tasks, show those available to you, and also those you've finished.
 * Built in search option allows you to browse!
 
-<figure><img src="../.gitbook/assets/image (540).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (533).png" alt=""><figcaption></figcaption></figure>
 
 #### Task Tiers <a href="#task_tiers" id="task_tiers"></a>
 
@@ -44,7 +44,7 @@ icon: clipboard-list
 * 2nd Tier rewards Dungeon Tokens and Crystallized Fossils.
 * 3rd Tier can vary, often rewards a Demonic Vial or Gem Box for harder targets.
 
-<figure><img src="../.gitbook/assets/image (541).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (534).png" alt=""><figcaption></figcaption></figure>
 
 #### Tips <a href="#tips" id="tips"></a>
 

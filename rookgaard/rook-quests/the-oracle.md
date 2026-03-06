@@ -2,7 +2,7 @@
 
 **The Oracle** which gives you Rookgaard tasks is located on the Depot roof.
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 To start task just talk to The Oracle : _**Hi / Mission / Yes**_
 

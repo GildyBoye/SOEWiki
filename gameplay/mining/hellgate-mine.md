@@ -9,27 +9,27 @@
 
 Follow this path to reach the Hellgate Mine:
 
-<div><figure><img src="../../.gitbook/assets/image (578).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (579).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (572).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (575).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (585).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (578).png" alt=""><figcaption></figcaption></figure>
 
 
 
 At this point you have to pick a secret hole here:
 
-<figure><img src="../../.gitbook/assets/image (586).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (579).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (587).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (580).png" alt=""><figcaption></figcaption></figure>
 
-<p align="center"><img src="../../.gitbook/assets/image (588).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (581).png" alt=""></p>
 
 <p align="center"></p>
 
 Continue the path until you find a wagon, then click it to enter the mine and reach the ticket shop:
 
-<figure><img src="../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
 
 
 

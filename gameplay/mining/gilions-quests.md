@@ -10,19 +10,19 @@ Since the use of mine carts is currently unavailable, you need to enter Kazordoo
 
 Kazordoon entrance:
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 Go to the depot and just follow the map:
 
-<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 Keep moving up until you get to the top of the mountain:
 
-<figure><img src="../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 Go up twice on the ladders, take the [point of interest](../../exploration/points-of-interest.md) and them move to the right, where you will find the npc Gilion (black circle):
 
-<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -43,7 +43,7 @@ Go up twice on the ladders, take the [point of interest](../../exploration/point
 * Access to the infinite [Kazordoon Mine](kazordoon-mine.md)
 * The ability to fast travel around Kazordoon using mine carts.
 
-<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 **Walkthrough**
 
@@ -61,15 +61,15 @@ You will have to enter on a house, on the right hands side of the center Kazordo
 
 Go up the ladder and find a Dwarf guard body on the north side, with the map to deliver to Gillion.
 
-<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 Go back to Gillion, return the map and ask for your next task.
 
-<figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 Now you will have to kill 700 Dwarfs (of any kind), once you finish it, return back to Gilion for your rewards and now you can start mission 2.
 
@@ -128,7 +128,7 @@ Gilion: Very good job warrior, Here is your reward!
 * Access to the infinite [Narnia Mine](narnia-mine.md)
 * Dragon Eye
 
-<figure><img src="../../.gitbook/assets/image (570).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (563).png" alt=""><figcaption></figcaption></figure>
 
 **Walkthrough**
 
@@ -146,11 +146,11 @@ In order to craft all these bars you will need a lot of ores, but you will have 
 
 | Bar                                                          | Materials                                                                                                 | Gold      |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | --------- |
-| ![](<../../.gitbook/assets/image (571).png>)500 Copper Bars  | 1000 Copper Ore                                                                                           | 0         |
-|  ![](<../../.gitbook/assets/image (572).png>)300 Iron Bar    | <p>600 Iron Ore<br>300 Coal</p>                                                                           | 0         |
-|  ![](<../../.gitbook/assets/image (573).png>)200 Mithril Bar | <p>200 Mithril Ore<br>600 Coal<br></p>                                                                    | 20.000 gp |
-|  ![](<../../.gitbook/assets/image (574).png>)100 Adamant Bar | <p>100 Adamant Ore<br>600 Coal<br></p>                                                                    | 25.000 gp |
-|  ![](<../../.gitbook/assets/image (575).png>)100 Rune Bar    | <p>100 Rune Ore<br>800 Coal<br></p>                                                                       | 50.000 gp |
+| ![](<../../.gitbook/assets/image (564).png>)500 Copper Bars  | 1000 Copper Ore                                                                                           | 0         |
+|  ![](<../../.gitbook/assets/image (565).png>)300 Iron Bar    | <p>600 Iron Ore<br>300 Coal</p>                                                                           | 0         |
+|  ![](<../../.gitbook/assets/image (566).png>)200 Mithril Bar | <p>200 Mithril Ore<br>600 Coal<br></p>                                                                    | 20.000 gp |
+|  ![](<../../.gitbook/assets/image (567).png>)100 Adamant Bar | <p>100 Adamant Ore<br>600 Coal<br></p>                                                                    | 25.000 gp |
+|  ![](<../../.gitbook/assets/image (568).png>)100 Rune Bar    | <p>100 Rune Ore<br>800 Coal<br></p>                                                                       | 50.000 gp |
 | **TOTAL NEEDED:**                                            | <p>1000 Copper Ore<br>300 Iron Ore<br>200 Mithril Ore<br>100 Adamant Ore<br>100 Rune Ore<br>2300 Coal</p> | 95.000 gp |
 |                                                              |                                                                                                           |           |
 

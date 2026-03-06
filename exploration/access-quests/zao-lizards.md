@@ -4,11 +4,11 @@
 
 * To begin, head to Chor, located south east of Port Hope.
 
-<figure><img src="../../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (683).png" alt=""><figcaption></figcaption></figure>
 
 * Ask the sailor **Drox** for Passage.
 
-<figure><img src="../../.gitbook/assets/image (691).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (684).png" alt=""><figcaption></figcaption></figure>
 
 * Speak with the **Gate Guardian** outside the city located above.
 

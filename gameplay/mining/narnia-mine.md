@@ -11,9 +11,9 @@
 
 Narnia mine is located inside the Narnia area that requires [Vaccine Quest](https://wiki.soerpg.com/doku.php?id=vaccine_quest):
 
-<figure><img src="../../.gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (583).png" alt=""><figcaption></figcaption></figure>
 
 When mines were released GMs gave some “hints” on where the mine is located, but exact locations is currently WIP:
 
-<figure><img src="../../.gitbook/assets/image (591).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure>
 

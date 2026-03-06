@@ -16,7 +16,7 @@ Boss Tasks
 
 #### Amazons <a href="#amazons" id="amazons"></a>
 
-<figure><img src="../.gitbook/assets/image (623).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (616).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Amazon, Valkyrie\
 **Amount:** 300\
@@ -38,7 +38,7 @@ Boss Tasks
 
 #### Crocodiles <a href="#crocodiles" id="crocodiles"></a>
 
-<figure><img src="../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Crocodiles\
 **Amount:** 300\
@@ -58,7 +58,7 @@ Boss Tasks
 
 **Crystal Spider**
 
-<figure><img src="../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (618).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Crystal Spider\
 **Amount:** 300\
@@ -76,7 +76,7 @@ Boss Tasks
 
 #### Minotaur Mages <a href="#minotaur_mages" id="minotaur_mages"></a>
 
-<figure><img src="../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (619).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Minotaur Mages\
 **Amount:** 300\
@@ -104,7 +104,7 @@ Boss Tasks
 
 #### Tarantulas <a href="#tarantulas" id="tarantulas"></a>
 
-<figure><img src="../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (620).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Tarantulas\
 **Amount:** 300\
@@ -124,7 +124,7 @@ Boss Tasks
 
 #### Mutated Rats <a href="#mutated_rats" id="mutated_rats"></a>
 
-<figure><img src="../.gitbook/assets/image (628).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (621).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Mutated Rats\
 **Amount:** 250\
@@ -150,7 +150,7 @@ Boss Tasks
 
 #### Wyverns <a href="#wyverns" id="wyverns"></a>
 
-<figure><img src="../.gitbook/assets/image (629).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (622).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Wyverns\
 **Amount:** 100\
@@ -168,7 +168,7 @@ Top floor of Wyvern Mountain in northern Edron.
 
 #### Giant Spiders <a href="#giant_spiders" id="giant_spiders"></a>
 
-<figure><img src="../.gitbook/assets/image (630).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (623).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Giant Spiders\
 **Amount:** 600\
@@ -186,7 +186,7 @@ Top floor of Wyvern Mountain in northern Edron.
 
 #### Fire Spirits <a href="#fire_spirits" id="fire_spirits"></a>
 
-<figure><img src="../.gitbook/assets/image (631).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (624).png" alt=""><figcaption></figcaption></figure>
 
 (shows up as “Fire Spirits Absorbed”)\
 **Creatures:** Fire Devils, Fire Elementals\
@@ -213,7 +213,7 @@ Top floor of Wyvern Mountain in northern Edron.
 
 #### Dragon Lords <a href="#dragon_lords" id="dragon_lords"></a>
 
-<figure><img src="../.gitbook/assets/image (632).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Dragon Lords\
 **Amount:** 1000\
@@ -231,7 +231,7 @@ Top floor of Wyvern Mountain in northern Edron.
 
 #### Hydras <a href="#hydras" id="hydras"></a>
 
-<figure><img src="../.gitbook/assets/image (633).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (626).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Hydras\
 **Amount:** 900\
@@ -249,7 +249,7 @@ Top floor of Wyvern Mountain in northern Edron.
 
 #### Sea Serpents <a href="#sea_serpents" id="sea_serpents"></a>
 
-<figure><img src="../.gitbook/assets/image (634).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Sea Serpents\
 **Amount:** 900\
@@ -283,7 +283,7 @@ Top floor of Wyvern Mountain in northern Edron.
 
 #### Behemoths <a href="#behemoths" id="behemoths"></a>
 
-<figure><img src="../.gitbook/assets/image (635).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (628).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Behemoths\
 **Amount:** 800\
@@ -301,7 +301,7 @@ Top floor of Wyvern Mountain in northern Edron.
 
 #### Warlocks & Infernalists <a href="#warlocks_infernalists" id="warlocks_infernalists"></a>
 
-<figure><img src="../.gitbook/assets/image (636).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (629).png" alt=""><figcaption></figcaption></figure>
 
 **Creatures:** Warlocks & Infernalists\
 **Amount:** 400\
@@ -349,7 +349,7 @@ Location: Narnia Frost Mountains
 
 <summary>Directions</summary>
 
-<figure><img src="../.gitbook/assets/image (469).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (462).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -365,16 +365,16 @@ Location: Demona
 
 <summary>Directions</summary>
 
-<figure><img src="../.gitbook/assets/image (470).png" alt="" width="274"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (463).png" alt="" width="274"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (471).png" alt="" width="297"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (464).png" alt="" width="297"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (472).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (473).png" alt="" width="525"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (466).png" alt="" width="525"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (474).png" alt="" width="359"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (467).png" alt="" width="359"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (475).png" alt="" width="363"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (468).png" alt="" width="363"><figcaption></figcaption></figure>
 
 </details>

@@ -6,7 +6,7 @@ Requires access to the [Elf Tower](elf-tower.md) to start.
 
 Speak to Oronvar for a mission.
 
-<figure><img src="../../.gitbook/assets/image (860).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (853).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 Player: hi

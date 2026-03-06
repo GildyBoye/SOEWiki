@@ -18,29 +18,29 @@
 
 Follow the path:
 
-<figure><img src="../../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (664).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (672).png" alt="" width="300"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (665).png" alt="" width="300"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (673).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (666).png" alt=""><figcaption></figcaption></figure>
 
 Go through the teleport. Be ready to face a big amount of **Warlocks, Infernalist and some Hellfire Fighters**\
 Open the lever hidden to open the Magic Wall blocking the way.
 
-<figure><img src="../../.gitbook/assets/image (674).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (667).png" alt=""><figcaption></figcaption></figure>
 
-<p align="center"><br><img src="../../.gitbook/assets/image (675).png" alt=""></p>
+<p align="center"><br><img src="../../.gitbook/assets/image (668).png" alt=""></p>
 
-<figure><img src="../../.gitbook/assets/image (676).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (677).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (670).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (678).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Careful! No way back!** Be ready to face **Calista**.
 
-<figure><img src="../../.gitbook/assets/image (679).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (672).png" alt=""><figcaption></figcaption></figure>
 
 Enjoy your reward

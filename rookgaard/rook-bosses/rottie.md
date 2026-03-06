@@ -6,13 +6,13 @@ Rottie The Rotworm is the boss of the rotworms in Rookgaard. It spawns randomly 
 
 * Prerequisites: None
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 #### Directions <a href="#directions" id="directions"></a>
 
 Rottie The Rotworm spawn inside the Legion Helmet quest or the [Ghoul Quest](../rook-quests/ghoul-tomb.md) in Rookgaard:
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 #### Strategies <a href="#strategies" id="strategies"></a>
 

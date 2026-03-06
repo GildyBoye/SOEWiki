@@ -26,14 +26,14 @@ icon: pickaxe
 
 | Picture                                                                                                       | Ore Type    | Mining Skill Required |
 | ------------------------------------------------------------------------------------------------------------- | ----------- | --------------------- |
-| <div><figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure></div> | Copper ore  | 10                    |
-| <div><figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure></div> | Iron ore    | 20                    |
-| <div><figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure></div> | Coal        | 25                    |
-| <div><figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure></div> | Gold ore    | 30                    |
-| <div><figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure></div> | Mithril ore | 30                    |
-| <div><figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure></div> | Adamant ore | 40                    |
-| <div><figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure></div> | Runite ore  | 60                    |
-| <div><figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure></div> | Magical ore | 70                    |
+| <div><figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure></div> | Copper ore  | 10                    |
+| <div><figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure></div> | Iron ore    | 20                    |
+| <div><figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure></div> | Coal        | 25                    |
+| <div><figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure></div> | Gold ore    | 30                    |
+| <div><figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure></div> | Mithril ore | 30                    |
+| <div><figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure></div> | Adamant ore | 40                    |
+| <div><figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure></div> | Runite ore  | 60                    |
+| <div><figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure></div> | Magical ore | 70                    |
 
 ***
 
@@ -47,7 +47,7 @@ icon: pickaxe
 * Femur Hills
 * Many other places!
 
-<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -68,12 +68,12 @@ icon: pickaxe
 
 | Pickaxe                                              | Bars             | Raw Resources                             | Mining ticks | Chance of additional ore |
 | ---------------------------------------------------- | ---------------- | ----------------------------------------- | ------------ | ------------------------ |
-|  ![](<../../.gitbook/assets/image (172).png>)Copper  | 100 Copper Bars  | 200 Copper Ore                            | 2            | 1/8 = 12.5%              |
-|  ![](<../../.gitbook/assets/image (173).png>)Iron    | 100 Iron Bars    | 200 Iron Ore, 100 Coal                    | 3            | 1/7 = 14.29%             |
-|  ![](<../../.gitbook/assets/image (174).png>)Gold    | 100 Gold Bars    | 200 Gold Ore, 300 Coal                    | 4            | 1/6 = 16.67%             |
-|  ![](<../../.gitbook/assets/image (175).png>)Mithril | 100 Mithril Bars | 100 Mithril Ore, 400 Coal                 | 5            | 1/5 = 20%                |
-|  ![](<../../.gitbook/assets/image (176).png>)Adamant | 100 Adamant Bars | 100 Adamant Ore, 600 Coal                 | 6            | 1/4 = 25%                |
-|  ![](<../../.gitbook/assets/image (177).png>)Rune    | 100 Rune Bars    | 1 Shining Pickaxe, 100 Rune Ore, 800 Coal | 7            | 1/3 = 33.33%             |
+|  ![](<../../.gitbook/assets/image (165).png>)Copper  | 100 Copper Bars  | 200 Copper Ore                            | 2            | 1/8 = 12.5%              |
+|  ![](<../../.gitbook/assets/image (166).png>)Iron    | 100 Iron Bars    | 200 Iron Ore, 100 Coal                    | 3            | 1/7 = 14.29%             |
+|  ![](<../../.gitbook/assets/image (167).png>)Gold    | 100 Gold Bars    | 200 Gold Ore, 300 Coal                    | 4            | 1/6 = 16.67%             |
+|  ![](<../../.gitbook/assets/image (168).png>)Mithril | 100 Mithril Bars | 100 Mithril Ore, 400 Coal                 | 5            | 1/5 = 20%                |
+|  ![](<../../.gitbook/assets/image (169).png>)Adamant | 100 Adamant Bars | 100 Adamant Ore, 600 Coal                 | 6            | 1/4 = 25%                |
+|  ![](<../../.gitbook/assets/image (170).png>)Rune    | 100 Rune Bars    | 1 Shining Pickaxe, 100 Rune Ore, 800 Coal | 7            | 1/3 = 33.33%             |
 
 ***
 
@@ -84,10 +84,10 @@ icon: pickaxe
 
 | Mining Pests                                                                                                  | Ore Veins            |
 | ------------------------------------------------------------------------------------------------------------- | -------------------- |
-| <div><figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure></div> | Copper, Iron.        |
-| <div><figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure></div> | Coal, Gold, Mithril. |
-| <div><figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure></div> | Adamantium.          |
-| <div><figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure></div> | Runite.              |
+| <div><figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure></div> | Copper, Iron.        |
+| <div><figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure></div> | Coal, Gold, Mithril. |
+| <div><figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure></div> | Adamantium.          |
+| <div><figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure></div> | Runite.              |
 |                                                                                                               |                      |
 
 ***

@@ -15,11 +15,11 @@
 * Cursed Bone drops from Diabolic/Demonic versions of Undead Dragons, Lich, and Lost Souls.
 * Blue Apple drops from Diabolic/Demonic versions of Hydra, Warlocks and Infernalists.
 
-<figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 
 * After obtaining the items, head to Venore and speak to Chatterbone.
 
-<figure><img src="../../.gitbook/assets/image (445).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (438).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ```
 Player: hi
@@ -44,7 +44,7 @@ Chatterbone: . . All is .. lossstttttt
 * Ask him for Passage after drinking the potion to be teleported to the maze.
 * There are dangerous monsters, come prepared!
 
-<figure><img src="../../.gitbook/assets/image (446).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (439).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * As you walk around the maze you will summon groups of monsters.&#x20;
 * The deeper you go, the stronger they become!
@@ -52,36 +52,36 @@ Chatterbone: . . All is .. lossstttttt
 * There are many fake chests in the maze, when used they become mimics; a fairly strong monster.&#x20;
 * Make sure to collect the Rune Pieces in each labeled spot, and collect the pieces of the pass-phrase!
 
-<figure><img src="../../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (461).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (448).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
 * Collect chests numbered 1 through 9.
 * There are other chests able to be looted, be careful of Mimics though!
 
+<div><figure><img src="../../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (444).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../../.gitbook/assets/image (445).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (446).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../../.gitbook/assets/image (442).png" alt="" width="265"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (447).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+<div><figure><img src="../../.gitbook/assets/image (448).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (449).png" alt="" width="243"><figcaption></figcaption></figure></div>
+
 <div><figure><img src="../../.gitbook/assets/image (450).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (451).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-<div><figure><img src="../../.gitbook/assets/image (452).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (453).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-<div><figure><img src="../../.gitbook/assets/image (449).png" alt="" width="265"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (454).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-<div><figure><img src="../../.gitbook/assets/image (455).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (456).png" alt="" width="243"><figcaption></figcaption></figure></div>
-
-<div><figure><img src="../../.gitbook/assets/image (457).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (458).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-<div><figure><img src="../../.gitbook/assets/image (459).png" alt="" width="129"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (461).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (462).png" alt="" width="183"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (452).png" alt="" width="129"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (454).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (455).png" alt="" width="183"><figcaption></figcaption></figure></div>
 
 * Make your way to the center, collecting the pieces and phrases as you go along.
 * Head into the center when finished.
 
-<div><figure><img src="../../.gitbook/assets/image (463).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (464).png" alt="" width="361"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (465).png" alt="" width="358"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (456).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (457).png" alt="" width="361"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (458).png" alt="" width="358"><figcaption></figcaption></figure></div>
 
 * Head upstairs where you must say the pass-phrase to spawn the boss. Make sure to kill the summons first, otherwise the boss is immune.
 * The phrase is "domini numquam requiem ardere mundus"
 * The boss needs to be killed for each person wanting the Superior AOL. (20 minute respawn time?)
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
 
 * Head back to Chatterbone and deliver the quest item. You can head upstairs after, and claim your Superior AOL.
 
-<figure><img src="../../.gitbook/assets/image (467).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (460).png" alt="" width="375"><figcaption></figcaption></figure>

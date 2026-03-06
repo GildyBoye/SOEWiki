@@ -15,7 +15,7 @@ icon: swords
 
 * Public trainers are located in Kazordoon, 3 floors under the Depot .
 
-<figure><img src="../../.gitbook/assets/image (526).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
 
 * [Oin's Quest](oins-quest-public-trainer-access.md) must be completed before you are allowed through the doors.
 
@@ -33,7 +33,7 @@ icon: swords
 * Built into the game client is a trainer for making runes and leveling magic.
 * Open the trainer using the icon marked in the image below.
 
-<div><figure><img src="../../.gitbook/assets/image (528).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (520).png" alt=""><figcaption></figcaption></figure></div>
 
 * For Auto-Eat Food to work the container with the food must be open.
 * Mana Training will cast any spell entered into the text field.

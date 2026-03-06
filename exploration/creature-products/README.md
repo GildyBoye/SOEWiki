@@ -9,7 +9,7 @@ icon: feather
 * White hunting, monsters occasionally drop [Creature Products](https://tibia.fandom.com/wiki/Creature_Products).
 * These can be sold to [Bo the Merchant](../access-quests/bo-the-merchant.md).
 
-<figure><img src="../../.gitbook/assets/image (745).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (738).png" alt=""><figcaption></figcaption></figure>
 
 * Many monster products can be sold to a variety of NPCs around the world as well.
 

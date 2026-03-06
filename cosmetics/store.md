@@ -9,7 +9,7 @@ icon: hands-holding-dollar
 * **Souls of Elysium** offers several features via the store functions.
 * You'll be able to interact with the system via the store icon.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### Scrolls <a href="#scrolls" id="scrolls"></a>
 

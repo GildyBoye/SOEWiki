@@ -20,7 +20,7 @@ Note: You can buy all items required at Jezzara in Ankrahmun Jezzara is located 
 
 #### Solution <a href="#solution" id="solution"></a>
 
-<figure><img src="../../.gitbook/assets/image (687).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (680).png" alt=""><figcaption></figcaption></figure>
 
 First step is to travel to Svargrond and walk down from the boat, and then upstairs to the south boat.
 
@@ -80,7 +80,7 @@ Now, we have access to ask him about 'hunt', which will be our way into Sea Serp
   Captain Haba: A'right, wanna put out to sea?
 ```
 
-<figure><img src="../../.gitbook/assets/image (688).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (681).png" alt=""><figcaption></figcaption></figure>
 
 Once you got here, you have 2 choices of area’s hunt
 
@@ -88,4 +88,4 @@ Note: North’s spawn are the same
 
 #### Jezzara Location <a href="#jezzara_location" id="jezzara_location"></a>
 
-<figure><img src="../../.gitbook/assets/image (689).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (682).png" alt=""><figcaption></figcaption></figure>

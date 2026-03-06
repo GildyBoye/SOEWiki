@@ -16,7 +16,7 @@ In **Souls of Elysium** you can craft a variety of items to improve your charact
 * Kazordoon, next to the DP.
 * Leo's Enclave, -1.
 
-<div><figure><img src="../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (530).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Ingots <a href="#ingots" id="ingots"></a>
 

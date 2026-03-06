@@ -12,9 +12,9 @@ Also known as the Dwarf King Quest.
 * There is an exit portal right before the Dwarf Tower.
 * Continue heading down the floors, once you get beyond the Tower it's pretty much a 1 way path to the King.
 
-<figure><img src="../../.gitbook/assets/image (638).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (631).png" alt=""><figcaption></figcaption></figure>
 
-<p align="center"><img src="../../.gitbook/assets/image (639).png" alt=""></p>
+<p align="center"><img src="../../.gitbook/assets/image (632).png" alt=""></p>
 
 Rewards:
 

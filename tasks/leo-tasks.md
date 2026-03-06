@@ -13,7 +13,7 @@ icon: angel
 * Leo assigns tasks, growing in danger and pushing you to fight stronger Demonic/Diabolic monsters!
 * The book near Leo can be read to understand what tier of monsters you're needing to fight for your task.
 
-<div><figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure></div>
 
 | Task Number | Objective                            | Notes                                                                                                                                                                                                                                                                                                                                                                  |
 | ----------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

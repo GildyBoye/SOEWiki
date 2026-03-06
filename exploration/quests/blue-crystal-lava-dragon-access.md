@@ -11,7 +11,7 @@
 * This quest is started by speaking with An Old Dragonlord in Draconia.
 * It is possible to get the Blue Crystal **before** talking with An Old Dragonlord.
 
-<figure><img src="../../.gitbook/assets/image (640).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (633).png" alt=""><figcaption></figcaption></figure>
 
 #### Dialogue <a href="#dialogue" id="dialogue"></a>
 
@@ -38,26 +38,26 @@ An Old Dragonlord: THIS PATH WILL NOT BE EASY, MORTAL, BUT FOLLOW MY INSTRUCTION
 * Be prepared to meet Infernalists, Warlocks, Hellhounds, Hellfire Fighters, Demons and a Hellfire Mage at the end.
 * Start by heading north east of Carlin to get to the Maze of Lost Souls.
 
-<figure><img src="../../.gitbook/assets/image (641).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (634).png" alt=""><figcaption></figcaption></figure>
 
 * Behind a tree two levels down is a portal to Demona.
 * Once in Demona, follow this path.
 
-<figure><img src="../../.gitbook/assets/image (642).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (635).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (643).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (636).png" alt=""><figcaption></figcaption></figure>
 
 * Pull the lever and head up the tower.
 * After defeating the Hellfire Mage on the top floor a teleport will appear.
-* This will bring you to the reward room. Click the chest to receive the blue crystal ![](<../../.gitbook/assets/image (645).png>)
+* This will bring you to the reward room. Click the chest to receive the blue crystal ![](<../../.gitbook/assets/image (638).png>)
 
-<figure><img src="../../.gitbook/assets/image (646).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (639).png" alt=""><figcaption></figcaption></figure>
 
 * After entering the portal you will appear in Ab'dendriel.
 * This tile is now a shortcut to Draconia. Bring the crystal to An Old Dragonlord
 *
 
-    <figure><img src="../../.gitbook/assets/image (647).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (640).png" alt=""><figcaption></figcaption></figure>
 
 ```
 Player: hi

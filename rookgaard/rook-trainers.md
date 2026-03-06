@@ -12,9 +12,9 @@ Just like Main land there is 2 ways to train
 
 There are 2 spots in Rookgaard with target dummys: one is inside in the shop behind Obi and the other is in the elf tower.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ### One handed + shielding <a href="#one_handed_shielding" id="one_handed_shielding"></a>
 
