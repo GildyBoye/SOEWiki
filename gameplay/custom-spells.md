@@ -9,7 +9,7 @@ icon: wand-magic-sparkles
 * There are both new and existing spells in **Souls of Elysium**.
 * Spells no longer require a Character level, and instead require just the Magic Level and Mana to cost.
 * There is a Spell List in-game as well.
-* An asterisk (\*) denotes a custom spell. More info provided beneath spell section for each Class.
+* An asterisk (\*) denotes a custom spell or changed one. More info provided beneath spell section for each Class.
 
 
 
@@ -31,21 +31,25 @@ icon: wand-magic-sparkles
 
 ### Knight <a href="#knight" id="knight"></a>
 
-| Spell Name         | Spell Words    | Mana Cost | Magic Level |
-| ------------------ | -------------- | --------- | ----------- |
-| Annihilation       | Exori Gran Ico | 400       | 7           |
-| Berserk            | Exori          | 115       | 5           |
-| Brutal Swing \*    | Exori Eres     | 90        | 4           |
-| Challenge          | Exeta Res      | 30        | 4           |
-| Challenge Throw \* | Exeta Res Hur  | 80        | 5           |
-| Fierce Berserk     | Exori Gran     | 285       | 6           |
-| Intense Recovery   | Utura Gran     | 150       | 4           |
-| Light Healing      | Exura          | 25        | 1           |
-| Recovery           | Utura          | 75        | 2           |
-| Whirlwind Throw    | Exori Hur      | 40        | 2           |
+| Spell Name                     | Spell Words    | Mana Cost | Magic Level |
+| ------------------------------ | -------------- | --------- | ----------- |
+| Annihilation                   | Exori Gran Ico | 400       | 7           |
+| Berserk                        | Exori          | 115       | 5           |
+| Blood Frenzy \* (Spell Scroll) | Exori Ico Kor  | 300       | ?           |
+| Brutal Swing \*                | Exori Eres     | 90        | 4           |
+| Challenge \*                   | Exeta Res      | 30        | 4           |
+| Challenge Throw \*             | Exeta Res Hur  | 80        | 5           |
+| Fierce Berserk                 | Exori Gran     | 285       | 6           |
+| Intense Recovery               | Utura Gran     | 150       | 4           |
+| Light Healing                  | Exura          | 25        | 1           |
+| Recovery                       | Utura          | 75        | 2           |
+| Whirlwind Throw \*             | Exori Hur      | 40        | 2           |
 
 * Brutal Swing (Exori Eres) is a 1/2 sized Exori, hitting the squares on either side of a character, and the squares in front and diagonal to the character. It can be aimed by attacking a monster.
+* Blood Frenzy (Exori Ico Kor) is a barrage of melee hits scaling off your skills, ending in a final hit that causes a bleed.
+* Challenge (Exeta Res) levels up with casts, growing larger in size from 1x1 to 2x2 and 3x3 at 5000 and 15,000 casts respectively.
 * Challenge Throw (Exeta Res Hur) is just an Exori Hur that taunts.
+* Whirlwind Throw (Exori Hur) levels up with casts, bouncing to nearby targets at 5000 and 15,000 casts respectively.
 
 ***
 
@@ -53,42 +57,39 @@ icon: wand-magic-sparkles
 
 ### Paladin <a href="#paladin" id="paladin"></a>
 
-| Spell Name              | Spell Words     | Mana Cost | Magic Level |
-| ----------------------- | --------------- | --------- | ----------- |
-| Cancel Invisibility     | Exana Ina       | 200       | 12          |
-| Chain Shot \*           | Exevo Catena    | 160       | 15          |
-| Conjure Arrow           | Exevo Con       | 30        | 1           |
-| Conjure Blank Rune      | Adori Blank     | 10        | 1           |
-| Conjure Bolt            | Exevo Con Mort  | 50        | 5           |
-| Conjure Drill Bolt      | Exevo Con Drill | 250       | 14          |
-| Conjure Enchanted Spear | Exeta Con       | 120       | 9           |
-| Conjure Envenomed Arrow | Exevo Con Venom | 215       | 13          |
-| Conjure Explosive Arrow | Exevo Con Flam  | 120       | 10          |
-| Conjure Onyx Arrow      | Exevo Con Onyx  | 180       | 11          |
-| Conjure Poisoned Arrow  | Exevo Con Pox   | 70        | 2           |
-| Conjure Power Bolt      | Exevo Con Vis   | 200       | 12          |
-| Conjure Spear           | Exevo Min Con   | 25        | 0           |
-| Destroy Field Rune      | Adito Grav      | 60        | 4           |
-| Disintegrate Rune       | Adito Tera      | 100       | 9           |
-| Divine Caldera          | Exevo Mas San   | 180       | 12          |
-| Divine Missile          | Exori San       | 20        | 3           |
-| Fireball Rune           | Adori Flam      | 50        | 4           |
-| Food                    | Exevo Pan       | 30        | 0           |
-| Heavy Magic Missile     | Adori Gran      | 70        | 3           |
-| Intense Healing         | Exura Gran      | 35        | 3           |
-| Invisibility            | Utana Vid       | 210       | 15          |
-| Light Healing           | Exura           | 25        | 1           |
-| Light Magic Missile     | Adori           | 30        | 0           |
-| Magic Shield            | Utamo Vita      | 50        | 4           |
-| Ultimate Healing        | Exura Vita      | 80        | 8           |
+| Spell Name                     | Spell Words     | Mana Cost | Magic Level |
+| ------------------------------ | --------------- | --------- | ----------- |
+| Cancel Invisibility            | Exana Ina       | 200       | 12          |
+| Chain Shot \*                  | Exevo Catena    | 160       | 15          |
+| Conjure Arrow                  | Exevo Con       | 30        | 1           |
+| Conjure Blank Rune             | Adori Blank     | 10        | 1           |
+| Conjure Bolt                   | Exevo Con Mort  | 50        | 5           |
+| Conjure Drill Bolt             | Exevo Con Drill | 250       | 14          |
+| Conjure Enchanted Spear        | Exeta Con       | 120       | 9           |
+| Conjure Envenomed Arrow        | Exevo Con Venom | 215       | 13          |
+| Conjure Explosive Arrow        | Exevo Con Flam  | 120       | 10          |
+| Conjure Onyx Arrow             | Exevo Con Onyx  | 180       | 11          |
+| Conjure Poisoned Arrow         | Exevo Con Pox   | 70        | 2           |
+| Conjure Power Bolt             | Exevo Con Vis   | 200       | 12          |
+| Conjure Spear                  | Exevo Min Con   | 25        | 0           |
+| Destroy Field Rune             | Adito Grav      | 60        | 4           |
+| Disintegrate Rune              | Adito Tera      | 100       | 9           |
+| Divine Caldera \*              | Exevo Mas San   | 180       | 12          |
+| Divine Cloak \* (Spell Scroll) | Exevo Res San   | ?         | ?           |
+| Divine Missile                 | Exori San       | 20        | 3           |
+| Fireball Rune                  | Adori Flam      | 50        | 4           |
+| Food                           | Exevo Pan       | 30        | 0           |
+| Heavy Magic Missile            | Adori Gran      | 70        | 3           |
+| Intense Healing                | Exura Gran      | 35        | 3           |
+| Invisibility                   | Utana Vid       | 210       | 15          |
+| Light Healing                  | Exura           | 25        | 1           |
+| Light Magic Missile            | Adori           | 30        | 0           |
+| Magic Shield                   | Utamo Vita      | 50        | 4           |
+| Ultimate Healing               | Exura Vita      | 80        | 8           |
 
-* Chain Shot (Exevo Catena) shoots a bouncing arrow.
-* You acquire a new additional “ricochet” every 25 distance levels up to a maximum of 6 ricochets.
-* Each ricochet reduces the damage by 10%.
-* The damage depends on both your distance level and the total attack value of your weapon + ammunition.
-* If your target is a creature, this will only randomly ricochet to creatures and will avoid targeting players regardless of your secure mode status.
-* In order to use this in PVP, your current target must be a player, which will randomly target both players and creatures.
-* A minimum of 2 available targets is required to successfully execute the spell.
+* Chain Shot (Exevo Catena) shoots a bouncing arrow. You acquire a new additional “ricochet” every 25 distance levels up to a maximum of 6 ricochets.
+* Divine Caldera (Exevo Mas San) Levels up causing a Holy DOT.
+* Divine Cloak (Exevo Res San) cloaks the caster in an holy aura dealing holy damage around them. Obtained through a Spell Scroll.
 
 | Distance Level | Ricochets |
 | -------------- | --------- |
@@ -160,11 +161,10 @@ icon: wand-magic-sparkles
 | Wild Growth Rune         | Adevo Grav Vita                | 250       | 20          |
 
 * Ice Barrage is a multi hit Exori Frigo. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
+* Earth Barrage is a multi hit Exori Tera. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
 * Mini Heal Friend (Exura Sio Mini) is a lesser heal compared to the regular _exura sio_.
-* Lifeline (Exura Viva) is a healing spell that heals multiple times (HOT).
-* The number of times is determined by the magic level (equipment included). The amount healed is about 60% a normal _exura sio_.
-* It's possible to cast Lifeline on yourself.
-* Each heal is displayed with a number both on the caster and the target. The number shows how many heals are remaining with 0 being the last heal
+* Lifeline (Exura Viva) is a healing spell that heals multiple times (HOT). The number of times is determined by the magic level (equipment included). The amount healed is about 60% a normal _exura sio_.
+* Vigor Rune is a spell rune that increases the health of the target by a % of the base caster's health.
 
 | Magic Level | Heals |
 | ----------- | ----- |
