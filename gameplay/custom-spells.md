@@ -105,65 +105,70 @@ icon: wand-magic-sparkles
 
 ### Druid <a href="#druid" id="druid"></a>
 
-| Spell Name               | Spell Words                    | Mana Cost | Magic Level |
-| ------------------------ | ------------------------------ | --------- | ----------- |
-| Animate Dead Rune        | Adana Mort                     | 300       | 7           |
-| Antidote Rune            | Adana Pox                      | 50        | 4           |
-| Chameleon Rune           | Adevo Ina                      | 150       | 10          |
-| Conjure Blank Rune       | Adori Blank                    | 10        | 1           |
-| Convince Creature Rune   | Adeta Sio                      | 100       | 15          |
-| Creature Illusion        | Utevo Res Ina                  | 100       | 10          |
-| Destroy Field Rune       | Adito Grav                     | 60        | 4           |
-| Disintegrate Rune        | Adito Tera                     | 100       | 9           |
-| Energy Field Rune        | Adevo Grav Vis                 | 80        | 5           |
-| Energy Strike            | Exori Vis                      | 20        | 3           |
-| Energy Wall Rune         | Adevo Mas Grav Vis             | 250       | 13          |
-| Explosion Rune           | Adevo Mas Hur                  | 145       | 12          |
-| Fire Bomb Rune           | Adevo Mas Flam                 | 20        | 3           |
-| Fire Field Rune          | Adevo Grav Flam                | 60        | 3           |
-| Fire Wall Rune           | Adevo Mas Grav Flam            | 200       | 12          |
-| Fireball Rune            | Adori Flam                     | 50        | 4           |
-| Flame Strike             | Exori Flam                     | 20        | 3           |
-| Food                     | Exevo Pan                      | 30        | 0           |
-| Force Strike             | Exori Mort                     | 20        | 2           |
-| Great Fireball Rune      | Adori Gran Flam                | 110       | 11          |
-| Heal Friend              | Exura Sio “Character Name      | 70        | 7           |
-| Heal Party               | Exura Mas Sio                  | 220       | 13          |
-| Heavy Magic Missile      | Adori Gran                     | 70        | 3           |
-| Ice Barrage \*           | Exori Con Frigo                | 120       | 20          |
-| Ice Strike               | Exori Frigo                    | 20        | 3           |
-| Ice Wave                 | Exevo Frigo Hur                | 130       | 18          |
-| Icicle Rune              | Adori Frigo                    | 130       | 8           |
-| Intense Healing          | Exura Gran                     | 35        | 3           |
-| Intense Healing Rune     | Adura Gran                     | 50        | 4           |
-| Invisibility             | Utana Vid                      | 210       | 15          |
-| Lifeline \*              | Exura Viva                     | 210       | 25          |
-| Light Healing            | Exura                          | 25        | 1           |
-| Light Magic Missile Rune | Adori                          | 30        | 15          |
-| Magic Shield             | Utamo Vita                     | 50        | 4           |
-| Mass Healing             | Exura Gran Mas Res             | 150       | 19          |
-| Mini Heal Friend         | Exura Sio Mini “Character Name | 35        | 3           |
-| Paralyze Rune            | Adana Ani                      | 600       | 18          |
-| Poison Bomb Rune         | Adevo Mas Pox                  | 150       | 8           |
-| Poison Field Rune        | Adevo Grav Pox                 | 50        | 2           |
-| Poison Wall Rune         | Adevo Mas Grav Pox             | 160       | 11          |
-| Salvation Wild Growth    | Exevo Grav Vita                | 220       | 13          |
-| Soulfire Rune            | Adevo Res Flam                 | 150       | 13          |
-| Stalagmite Rune          | Exura Vita                     | 350       | 8           |
-| Strong Energy Strike     | Exori Gran Vis                 | 60        | 15          |
-| Strong Haste             | Utani Gran Hur                 | 100       | 8           |
-| Summon Creature          | Utevo Res “Creature Name       | Varies    | 16          |
-| Terra Wave               | Exevo Tera Hur                 | 145       | 35          |
-| Ultimate Avalanche       | Exevo Nivis Casus              | 600       | 40          |
-| Ultimate Healing         | Exura Vita                     | 80        | 8           |
-| Ultimate Healing Rune    | Adura Vita                     | 80        | 11          |
-| Undead Legion            | Exana Mas Mort                 | 800       | 18          |
-| Wild Growth Rune         | Adevo Grav Vita                | 250       | 20          |
+| Spell Name                   | Spell Words                    | Mana Cost | Magic Level |
+| ---------------------------- | ------------------------------ | --------- | ----------- |
+| Animate Dead Rune            | Adana Mort                     | 300       | 7           |
+| Antidote Rune                | Adana Pox                      | 50        | 4           |
+| Chameleon Rune               | Adevo Ina                      | 150       | 10          |
+| Conjure Blank Rune           | Adori Blank                    | 10        | 1           |
+| Convince Creature Rune       | Adeta Sio                      | 100       | 15          |
+| Creature Illusion            | Utevo Res Ina                  | 100       | 10          |
+| Destroy Field Rune           | Adito Grav                     | 60        | 4           |
+| Disintegrate Rune            | Adito Tera                     | 100       | 9           |
+| Earth Barrage \*             | Exori Con Terra                |           |             |
+| Energy Field Rune            | Adevo Grav Vis                 | 80        | 5           |
+| Energy Strike                | Exori Vis                      | 20        | 3           |
+| Energy Wall Rune             | Adevo Mas Grav Vis             | 250       | 13          |
+| Explosion Rune               | Adevo Mas Hur                  | 145       | 12          |
+| Fire Bomb Rune               | Adevo Mas Flam                 | 20        | 3           |
+| Fire Field Rune              | Adevo Grav Flam                | 60        | 3           |
+| Fire Wall Rune               | Adevo Mas Grav Flam            | 200       | 12          |
+| Fireball Rune                | Adori Flam                     | 50        | 4           |
+| Flame Strike                 | Exori Flam                     | 20        | 3           |
+| Food                         | Exevo Pan                      | 30        | 0           |
+| Force Strike                 | Exori Mort                     | 20        | 2           |
+| Great Fireball Rune          | Adori Gran Flam                | 110       | 11          |
+| Heal Friend                  | Exura Sio “Character Name      | 70        | 7           |
+| Heal Party                   | Exura Mas Sio                  | 220       | 13          |
+| Heavy Magic Missile          | Adori Gran                     | 70        | 3           |
+| Ice Barrage \*               | Exori Con Frigo                | 120       | 20          |
+| Ice Strike                   | Exori Frigo                    | 20        | 3           |
+| Ice Wave                     | Exevo Frigo Hur                | 130       | 18          |
+| Icicle Rune                  | Adori Frigo                    | 130       | 8           |
+| Intense Healing              | Exura Gran                     | 35        | 3           |
+| Intense Healing Rune         | Adura Gran                     | 50        | 4           |
+| Invisibility                 | Utana Vid                      | 210       | 15          |
+| Lifeline \*                  | Exura Viva                     | 210       | 25          |
+| Light Healing                | Exura                          | 25        | 1           |
+| Light Magic Missile Rune     | Adori                          | 30        | 15          |
+| Magic Shield                 | Utamo Vita                     | 50        | 4           |
+| Mass Healing                 | Exura Gran Mas Res             | 150       | 19          |
+| Mini Heal Friend             | Exura Sio Mini “Character Name | 35        | 3           |
+| Paralyze Rune                | Adana Ani                      | 600       | 18          |
+| Party Haste \*               | Utani Mas Hur                  | 300       | ?           |
+| Poison Bomb Rune             | Adevo Mas Pox                  | 150       | 8           |
+| Poison Field Rune            | Adevo Grav Pox                 | 50        | 2           |
+| Poison Wall Rune             | Adevo Mas Grav Pox             | 160       | 11          |
+| Salvation Wild Growth        | Exevo Grav Vita                | 220       | 13          |
+| Soulfire Rune                | Adevo Res Flam                 | 150       | 13          |
+| Stalagmite Rune              | Exura Vita                     | 350       | 8           |
+| Strong Energy Strike         | Exori Gran Vis                 | 60        | 15          |
+| Strong Haste                 | Utani Gran Hur                 | 100       | 8           |
+| Strong Ice Wave              | Exevo Gran Frigo Hur           |           |             |
+| Summon Creature              | Utevo Res “Creature Name       | Varies    | 16          |
+| Terra Wave                   | Exevo Tera Hur                 | 145       | 35          |
+| Ultimate Avalanche           | Exevo Nivis Casus              | 600       | 40          |
+| Ultimate Healing             | Exura Vita                     | 80        | 8           |
+| Ultimate Healing Rune        | Adura Vita                     | 80        | 11          |
+| Undead Legion                | Exana Mas Mort                 | 800       | 18          |
+| Wild Growth Rune             | Adevo Grav Vita                | 250       | 20          |
+| Vigor Rune \* (Spell Scroll) | ?                              | ?         | ?           |
 
 * Ice Barrage is a multi hit Exori Frigo. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
 * Earth Barrage is a multi hit Exori Tera. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
 * Mini Heal Friend (Exura Sio Mini) is a lesser heal compared to the regular _exura sio_.
 * Lifeline (Exura Viva) is a healing spell that heals multiple times (HOT). The number of times is determined by the magic level (equipment included). The amount healed is about 60% a normal _exura sio_.
+* Party Haste levels up with casts, growing larger from 1x1 to 2x2 and 3x3.
 * Vigor Rune is a spell rune that increases the health of the target by a % of the base caster's health.
 
 | Magic Level | Heals |
@@ -194,9 +199,10 @@ icon: wand-magic-sparkles
 | Energy Field Rune        | Adevo Grav Vis           | 80        | 5           |
 | Energy Strike            | Exori Vis                | 20        | 3           |
 | Energy Wall Rune         | Adevo Mas Grav Vis       | 250       | 13          |
-| Energy Wave              | Exevo Mort Hur           | 250       | 20          |
+| Energy Wave \*           | Exevo Mort Hur           | 250       | 20          |
 | Enchant Staff            | Exeta Vis                | 80        | 14          |
 | Explosion Rune           | Adevo Mas Hur            | 145       | 12          |
+| Fire Barrage \*          | Exevo Con Flam           |           |             |
 | Fire Bomb Rune           | Adevo Mas Flam           | 20        | 3           |
 | Fire Field Rune          | Adevo Grav Flam          | 60        | 3           |
 | Fire Wall Rune           | Adevo Mas Grav Flam      | 200       | 12          |
@@ -219,6 +225,7 @@ icon: wand-magic-sparkles
 | Poison Wall Rune         | Adevo Mas Grav Pox       | 160       | 11          |
 | Soulfire Rune            | Adevo Res Flam           | 150       | 13          |
 | Stalagmite Rune          | Adevo Res Pox            | 350       | 8           |
+| Strong Fire Wave         | Exevo Gran Flam Hur      |           |             |
 | Strong Energy Strike     | Exori Gran Vis           | 60        | 15          |
 | Strong Haste             | Utani Gran Hur           | 100       | 8           |
 | Sudden Death Rune        | Adori Vita Vis           | 240       | 25          |
@@ -227,5 +234,6 @@ icon: wand-magic-sparkles
 | Ultimate Explosion       | Exevo Gran Mas Vis       | 800       | 40          |
 | Ultimate Healing         | Exura Vita               | 80        | 8           |
 
-* Creeping Death (Adori Mort Vis) is a 7% stronger Sudden Death Rune. Rare drop from Kakdrak boss (Frostheaven expansion 300+ lvl)
+* Creeping Death (Adori Mort Vis) is a 7% stronger Sudden Death Rune with a Death DOT. Rare drop from Kakdrak boss (Frostheaven expansion 300+ lvl)
 * Magic Missile is a multi hit Exori Viso. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
+* Flame Barrage is a multi hit spell. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
