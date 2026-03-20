@@ -8,7 +8,7 @@ The Blind Orc is the Orc boss in Rookgaard. It spawns randomly (typically only 1
 
 The Blind orc spawns inside the troll cave of Rookgaard here:
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Strategies <a href="#strategies" id="strategies"></a>
 

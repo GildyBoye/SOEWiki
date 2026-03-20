@@ -4,13 +4,13 @@ Teleskor is the boss of the skeletons in Rookgaard. It spawns randomly (typicall
 
 * Prerequisites: None
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Directions <a href="#directions" id="directions"></a>
 
 Teleskor spawn almost at the entrance of Skeleton Archers cave here:
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Strategies <a href="#strategies" id="strategies"></a>
 

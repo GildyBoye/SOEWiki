@@ -4,7 +4,7 @@ Apprentice Sheng is the boss of the minotaurs in Rookgaard. It spawns randomly (
 
 * Prerequisites: None
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Directions <a href="#directions" id="directions"></a>
 

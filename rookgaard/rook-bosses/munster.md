@@ -8,9 +8,9 @@ Munster is the easiest boss in Rookgaard. It spawns randomly (tipically only 1 p
 
 Munster spawn inside the rat sewers of the city here:
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Strategies <a href="#strategies" id="strategies"></a>
 

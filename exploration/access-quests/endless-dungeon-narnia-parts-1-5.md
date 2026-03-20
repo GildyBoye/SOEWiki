@@ -161,7 +161,7 @@ When the stone its open go the way back and find the opened gate (marked before 
 
 Note: This is also where you can gain access to the Grand Warlock Spawn as well by having someone stand on the pressure plate on the West side and entering the portal behind rocks on the North side that opens.
 
-![](../../.gitbook/assets/image.png)![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (43).png>)![](<../../.gitbook/assets/image (1) (1).png>)
 
 
 

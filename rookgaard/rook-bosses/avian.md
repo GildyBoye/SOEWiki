@@ -6,7 +6,7 @@ Avian is probably the hardest boss you will face in Rookgaard. He is the boss of
 
 * Prerequisites: Kill 300 fire spirits (Fire Devils and / or Fire Elementals)
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Directions <a href="#directions" id="directions"></a>
 
@@ -14,7 +14,7 @@ Avian TP is located deep inside the fire devil area.
 
 Follow these directions:
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Strategies <a href="#strategies" id="strategies"></a>
 

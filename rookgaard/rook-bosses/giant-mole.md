@@ -6,13 +6,13 @@ The Giant Mole is a regular boss you will face in Rookgaard, its spawn rate is a
 
 * Prerequisites: Lvl 20
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Directions <a href="#directions" id="directions"></a>
 
 Giant Mole is located north of Rookgaard here:
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Strategies <a href="#strategies" id="strategies"></a>
 
