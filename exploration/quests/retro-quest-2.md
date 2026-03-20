@@ -2,11 +2,13 @@
 
 **Level Required:** ?
 
-**Rewards:** ?
-
 **Location:** Narnia, Fibula
 
-**Monsters:** ?
+**Monsters:** Archaic versions of Creatures such as Rotworms, Monks, Heroes, Dragons, Dragon Lords and Demons.
+
+**Rewards**: ?
+
+
 
 
 
