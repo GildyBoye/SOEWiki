@@ -6,5 +6,4 @@ icon: calculator
 
 * Ilvl and Attribute Calculator
 
-{% embed url="https://gildyboye.github.io/" %}
-
+{% embed url="https://gildyboye.github.io/soecalculator/" %}
