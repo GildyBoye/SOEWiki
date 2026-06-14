@@ -8,4 +8,4 @@
 * HOTA, POI, Inq
 * Zathroth, Xerkar and Infernatil.
 * All Leo quests, including 100 magic essence to Leo.
-* Inside FH, individual seals require 60 Fishing, 45 Mining, 55 Points of Interest.
+* Inside FH, individual seals require 40 Fishing, 45 Mining, 55 Points of Interest.
