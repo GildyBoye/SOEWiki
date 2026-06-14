@@ -2,7 +2,7 @@
 
 * **Requirement:** [Gilion's Quest](gilions-quests.md) (Mission 2)
 * **Veins:** Coal, Gold and Mithril veins.
-* **Ticket Fee:** 5000gp (5k)
+* **Ticket Fee:** 25,000 GP
 * **Ticket duration:** 1h
 
 #### Location <a href="#location" id="location"></a>

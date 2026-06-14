@@ -4,7 +4,7 @@
 
 * **Requirement:** [Gilion's Quest](gilions-quests.md) (Mission 3) and [Vaccine Quest](https://wiki.soerpg.com/doku.php?id=vaccine_quest)
 * **Veins:** Coal, Adamant and Runite veins
-* **Ticket Fee:** 10k
+* **Ticket Fee:** 50,000
 * **Ticket duration:** 1h
 
 #### Location <a href="#location" id="location"></a>
