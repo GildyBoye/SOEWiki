@@ -606,7 +606,7 @@ High Scores on each server:
 
 <figure><img src="../.gitbook/assets/image (854).png" alt=""><figcaption></figcaption></figure>
 
-126. Unknown?
+126. Thais/Venor Tower, can be opened by lever in Jakundaf.
 
 <figure><img src="../.gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
 
