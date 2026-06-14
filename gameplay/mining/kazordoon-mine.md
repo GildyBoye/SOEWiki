@@ -2,7 +2,7 @@
 
 * **Requirement:** [Gilion's Quest](gilions-quests.md) (Mission 1)
 * **Veins:** Cooper and Iron.
-* **Ticket Fee:** 1000gp (1k)
+* **Ticket Fee:** 5000 GP
 * **Ticket duration:** 1h
 
 #### Location <a href="#location" id="location"></a>
