@@ -102,11 +102,11 @@ The following mounts are **obtainable in-game**:
 
 * Arctic Unicorn - Aedis reset
 
-![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=520b0c\&media=screenshot_22.png)
+<img src="https://wiki.soerpg.com/lib/exe/fetch.php?w=200&#x26;tok=520b0c&#x26;media=screenshot_22.png" alt="" width="200">
 
 * Blazing Unicorn - Tournament top 10
 
-![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=c24f21\&media=screenshot_23.png)
+<img src="https://wiki.soerpg.com/lib/exe/fetch.php?w=200&#x26;tok=c24f21&#x26;media=screenshot_23.png" alt="" width="200">
 
 **Normal Mount Dolls** 100 points each, 80 mounts total.
 

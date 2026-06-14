@@ -15,4 +15,4 @@ icon: hands-holding-diamond
 * Premium accounts can also found a Guild!
 * Access to a Loot Channel:
 
-![](https://wiki.soerpg.com/lib/exe/fetch.php?w=800\&tok=de94ea\&media=lootchannel1.png)
+<img src="https://wiki.soerpg.com/lib/exe/fetch.php?w=800&#x26;tok=de94ea&#x26;media=lootchannel1.png" alt="" width="800">
