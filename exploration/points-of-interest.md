@@ -606,7 +606,7 @@ High Scores on each server:
 
 <figure><img src="../.gitbook/assets/image (854).png" alt=""><figcaption></figcaption></figure>
 
-127. Unknown?
+126. Unknown?
 
 <figure><img src="../.gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure>
 
