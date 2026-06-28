@@ -13,7 +13,7 @@ icon: calendar-days
 
 ### [Neptulos](neptulos.md)
 
-* A weekly Boss event, taking place on Saturday at 1 PM EST (5PM GMT)
+* A weekly Boss event, taking place on Saturday at 2:30 PM EST (7:30PM GMT)
 * Safe death!
 
 

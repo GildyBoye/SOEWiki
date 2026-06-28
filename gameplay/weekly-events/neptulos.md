@@ -2,7 +2,7 @@
 
 ## Boss Info
 
-* Neptulos event is a weekly event every Saturday at 1PM EST (5PM GMT) on all servers.&#x20;
+* Neptulos event is a weekly event every Saturday at 2:30PM EST (7:30PM GMT) on all servers.&#x20;
 * It is a safe event so there is no death loss. If your health reaches 0, you‘re teleported to a lake with several whirlpools which you must swim into one of them to return to the main arena.
 * You must be level 20 or above to participate.
 * To join the event simply watch for the in game announcements that start an hour before the event. 5 minutes before it begins the announcements will change to say "To join the event type !Neptulos" Simply go into any PZ and say the command in default game chat and you will be teleported to the event arena.

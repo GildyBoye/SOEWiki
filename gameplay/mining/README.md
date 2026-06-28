@@ -66,14 +66,15 @@ icon: pickaxe
 * Each upgrade will increase the number of times a node is mined before having to click again.
 * Increased chance of receiving more than one ore.
 
-| Pickaxe                                              | Bars             | Raw Resources                             | Mining ticks | Chance of additional ore |
-| ---------------------------------------------------- | ---------------- | ----------------------------------------- | ------------ | ------------------------ |
-|  ![](<../../.gitbook/assets/image (165).png>)Copper  | 100 Copper Bars  | 200 Copper Ore                            | 2            | 1/8 = 12.5%              |
-|  ![](<../../.gitbook/assets/image (166).png>)Iron    | 100 Iron Bars    | 200 Iron Ore, 100 Coal                    | 3            | 1/7 = 14.29%             |
-|  ![](<../../.gitbook/assets/image (167).png>)Gold    | 100 Gold Bars    | 200 Gold Ore, 300 Coal                    | 4            | 1/6 = 16.67%             |
-|  ![](<../../.gitbook/assets/image (168).png>)Mithril | 100 Mithril Bars | 100 Mithril Ore, 400 Coal                 | 5            | 1/5 = 20%                |
-|  ![](<../../.gitbook/assets/image (169).png>)Adamant | 100 Adamant Bars | 100 Adamant Ore, 600 Coal                 | 6            | 1/4 = 25%                |
-|  ![](<../../.gitbook/assets/image (170).png>)Rune    | 100 Rune Bars    | 1 Shining Pickaxe, 100 Rune Ore, 800 Coal | 7            | 1/3 = 33.33%             |
+| Pickaxe                                                                        | Bars             | Raw Resources                             | Mining ticks | Chance of additional ore |
+| ------------------------------------------------------------------------------ | ---------------- | ----------------------------------------- | ------------ | ------------------------ |
+| <p> <img src="../../.gitbook/assets/image (165).png" alt=""></p><p>Copper</p>  | 100 Copper Bars  | 200 Copper Ore                            | 3            | 1/8 = 12.5%              |
+| <p> <img src="../../.gitbook/assets/image (166).png" alt=""></p><p>Iron</p>    | 100 Iron Bars    | 200 Iron Ore, 100 Coal                    | 10           | 1/7 = 14.29%             |
+| <p> <img src="../../.gitbook/assets/image (167).png" alt=""></p><p>Gold</p>    | 100 Gold Bars    | 200 Gold Ore, 300 Coal                    | 20           | 1/6 = 16.67%             |
+| <p> <img src="../../.gitbook/assets/image (168).png" alt=""></p><p>Mithril</p> | 100 Mithril Bars | 100 Mithril Ore, 400 Coal                 | 30           | 1/5 = 20%                |
+| <p> <img src="../../.gitbook/assets/image (169).png" alt=""></p><p>Adamant</p> | 100 Adamant Bars | 100 Adamant Ore, 600 Coal                 | 40           | 1/4 = 25%                |
+| <p> <img src="../../.gitbook/assets/image (170).png" alt=""></p><p>Rune</p>    | 100 Rune Bars    | 1 Shining Pickaxe, 100 Rune Ore, 800 Coal | 50           | 1/3 = 33.33%             |
+| Magic                                                                          |                  |                                           | 70           |                          |
 
 ***
 
