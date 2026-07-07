@@ -230,10 +230,11 @@ icon: wand-magic-sparkles
 | Strong Haste             | Utani Gran Hur           | 100       | 8           |
 | Sudden Death Rune        | Adori Vita Vis           | 240       | 25          |
 | Summon Creature          | Utevo Res “Creature Name | Varies    | 16          |
-| Terra Wave               | Exevo Tera Hur           | 145       | 35          |
 | Ultimate Explosion       | Exevo Gran Mas Vis       | 800       | 40          |
 | Ultimate Healing         | Exura Vita               | 80        | 8           |
 
 * Creeping Death (Adori Mort Vis) is a 7% stronger Sudden Death Rune with a Death DOT. Rare drop from Kakdrak boss (Frostheaven expansion 300+ lvl)
-* Magic Missile is a multi hit Exori Viso. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
+* Magic Missile is a multi hit Exori Vis. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
 * Flame Barrage is a multi hit spell. It gains an extra projectile every 20 Magic Levels, up to 6 extra hits.
+* Energy Wave levels up with casts, dealing an extra energy DOT for 10% of the damage dealt.
+
