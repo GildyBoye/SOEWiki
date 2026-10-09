@@ -5,7 +5,7 @@ description: Every wearable item on Souls of Elysium, grouped by slot and sorted
 # Item Browser
 
 * One tab per slot. Each list is sorted by the stat that matters most for it: Armor for armor pieces, Attack for weapons, Defense for shields.
-* Use the wiki search (top of the page) or your browser's find (`Ctrl+F`) to jump to an item.
+* Use your browser's find (`Ctrl+F`) to jump to an item.
 
 {% tabs %}
 
