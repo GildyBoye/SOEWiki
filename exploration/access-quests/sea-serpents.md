@@ -24,7 +24,9 @@ Note: You can buy all items required at Jezzara in Ankrahmun Jezzara is located 
 
 First step is to travel to Svargrond and walk down from the boat, and then upstairs to the south boat.
 
-Once you go up this ladder, you will start talking to Captain Haba.![](https://wiki.soerpg.com/lib/exe/fetch.php?tok=4a9c21\&media=https%3A%2F%2Fimgur.com%2FY2vNJTW.png)
+Once you go up this ladder, you will start talking to Captain Haba.
+
+![](https://i.imgur.com/Y2vNJTW.png)
 
 ***
 

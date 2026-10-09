@@ -6,137 +6,137 @@ icon: dagger
 
 | **Akatski**                                                                                                | **Assassin**                                                              | **Barbarian**                                                               |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img src="https://wiki.soerpg.com/lib/exe/fetch.php?media=akatski.gif" alt="Akatski" data-size="original"> | ![Assassin](https://wiki.soerpg.com/lib/exe/fetch.php?media=assassin.gif) | ![Barbarian](https://wiki.soerpg.com/lib/exe/fetch.php?media=barbarian.gif) |
+| <img src="../.gitbook/assets/outfits/akatski.gif" alt="Akatski" data-size="original"> | ![Assassin](../.gitbook/assets/outfits/assassin.gif) | ![Barbarian](../.gitbook/assets/outfits/barbarian.gif) |
 
 | **Berserker**                                                               | **Caster**                                                            | **Christmas Citizen**                                                                      |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| ![Berserker](https://wiki.soerpg.com/lib/exe/fetch.php?media=berserker.gif) | ![Caster](https://wiki.soerpg.com/lib/exe/fetch.php?media=caster.gif) | ![Christmas Citizen](https://wiki.soerpg.com/lib/exe/fetch.php?media=christmascitizen.gif) |
+| ![Berserker](../.gitbook/assets/outfits/berserker.gif) | ![Caster](../.gitbook/assets/outfits/caster.gif) | ![Christmas Citizen](../.gitbook/assets/outfits/christmascitizen.gif) |
 
 | **Cleric**                                                            | **Crone**                                                           | **Cultist**                                                             |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| ![Cleric](https://wiki.soerpg.com/lib/exe/fetch.php?media=cleric.gif) | ![Crone](https://wiki.soerpg.com/lib/exe/fetch.php?media=crone.gif) | ![Cultist](https://wiki.soerpg.com/lib/exe/fetch.php?media=cultist.gif) |
+| ![Cleric](../.gitbook/assets/outfits/cleric.gif) | ![Crone](../.gitbook/assets/outfits/crone.gif) | ![Cultist](../.gitbook/assets/outfits/cultist.gif) |
 
 | **Elven**                                                           | **Farcaster**                                                               | **Feisty Fighter**                                                                   |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Elven](https://wiki.soerpg.com/lib/exe/fetch.php?media=elven.gif) | ![Farcaster](https://wiki.soerpg.com/lib/exe/fetch.php?media=farcaster.gif) | ![Feisty Fighter](https://wiki.soerpg.com/lib/exe/fetch.php?media=feistyfighter.gif) |
+| ![Elven](../.gitbook/assets/outfits/elven.gif) | ![Farcaster](../.gitbook/assets/outfits/farcaster.gif) | ![Feisty Fighter](../.gitbook/assets/outfits/feistyfighter.gif) |
 
 | **Founders Mage**                                                                  | **Grand Wizard**                                                                 | **Hero**                                                          |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![Founders Mage](https://wiki.soerpg.com/lib/exe/fetch.php?media=foundersmage.gif) | ![Grand Wizard](https://wiki.soerpg.com/lib/exe/fetch.php?media=grandwizard.gif) | ![Hero](https://wiki.soerpg.com/lib/exe/fetch.php?media=hero.gif) |
+| ![Founders Mage](../.gitbook/assets/outfits/foundersmage.gif) | ![Grand Wizard](../.gitbook/assets/outfits/grandwizard.gif) | ![Hero](../.gitbook/assets/outfits/hero.gif) |
 
 | **Heroic Conqueror**                                                                     | **Hunter**                                                            | **Insectoid**                                                               |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Heroic Conqueror](https://wiki.soerpg.com/lib/exe/fetch.php?media=heroicconqueror.gif) | ![Hunter](https://wiki.soerpg.com/lib/exe/fetch.php?media=hunter.gif) | ![Insectoid](https://wiki.soerpg.com/lib/exe/fetch.php?media=insectoid.gif) |
+| ![Heroic Conqueror](../.gitbook/assets/outfits/heroicconqueror.gif) | ![Hunter](../.gitbook/assets/outfits/hunter.gif) | ![Insectoid](../.gitbook/assets/outfits/insectoid.gif) |
 
 | **Marksman**                                                              | **Master Assassin**                                                                    | **Monk**                                                          |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| ![Marksman](https://wiki.soerpg.com/lib/exe/fetch.php?media=marksman.gif) | ![Master Assassin](https://wiki.soerpg.com/lib/exe/fetch.php?media=masterassassin.gif) | ![Monk](https://wiki.soerpg.com/lib/exe/fetch.php?media=monk.gif) |
+| ![Marksman](../.gitbook/assets/outfits/marksman.gif) | ![Master Assassin](../.gitbook/assets/outfits/masterassassin.gif) | ![Monk](../.gitbook/assets/outfits/monk.gif) |
 
 | **Necromancer**                                                                 | **Oden**                                                          | **Oriental**                                                              |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| ![Necromancer](https://wiki.soerpg.com/lib/exe/fetch.php?media=necromancer.gif) | ![Oden](https://wiki.soerpg.com/lib/exe/fetch.php?media=oden.gif) | ![Oriental](https://wiki.soerpg.com/lib/exe/fetch.php?media=oriental.gif) |
+| ![Necromancer](../.gitbook/assets/outfits/necromancer.gif) | ![Oden](../.gitbook/assets/outfits/oden.gif) | ![Oriental](../.gitbook/assets/outfits/oriental.gif) |
 
 | **Pirate**                                                            | **Retro Knight**                                                                 | **Retro Nobleman**                                                                   |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Pirate](https://wiki.soerpg.com/lib/exe/fetch.php?media=pirate.gif) | ![Retro Knight](https://wiki.soerpg.com/lib/exe/fetch.php?media=retroknight.gif) | ![Retro Nobleman](https://wiki.soerpg.com/lib/exe/fetch.php?media=retronobleman.gif) |
+| ![Pirate](../.gitbook/assets/outfits/pirate.gif) | ![Retro Knight](../.gitbook/assets/outfits/retroknight.gif) | ![Retro Nobleman](../.gitbook/assets/outfits/retronobleman.gif) |
 
 | **Retro Warrior**                                                                  | **Royal Guard**                                                                | **Royal Warrior**                                                                  |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| ![Retro Warrior](https://wiki.soerpg.com/lib/exe/fetch.php?media=retrowarrior.gif) | ![Royal Guard](https://wiki.soerpg.com/lib/exe/fetch.php?media=royalguard.gif) | ![Royal Warrior](https://wiki.soerpg.com/lib/exe/fetch.php?media=royalwarrior.gif) |
+| ![Retro Warrior](../.gitbook/assets/outfits/retrowarrior.gif) | ![Royal Guard](../.gitbook/assets/outfits/royalguard.gif) | ![Royal Warrior](../.gitbook/assets/outfits/royalwarrior.gif) |
 
 | **Samurai**                                                             | **Scrapper**                                                              | **Sunpriest**                                                               |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Samurai](https://wiki.soerpg.com/lib/exe/fetch.php?media=samurai.gif) | ![Scrapper](https://wiki.soerpg.com/lib/exe/fetch.php?media=scrapper.gif) | ![Sunpriest](https://wiki.soerpg.com/lib/exe/fetch.php?media=sunpriest.gif) |
+| ![Samurai](../.gitbook/assets/outfits/samurai.gif) | ![Scrapper](../.gitbook/assets/outfits/scrapper.gif) | ![Sunpriest](../.gitbook/assets/outfits/sunpriest.gif) |
 
 | **Unknowable**                                                                | **Void Knight**                                                                | **Warlock**                                                             |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| ![Unknowable](https://wiki.soerpg.com/lib/exe/fetch.php?media=unknowable.gif) | ![Void Knight](https://wiki.soerpg.com/lib/exe/fetch.php?media=voidknight.gif) | ![Warlock](https://wiki.soerpg.com/lib/exe/fetch.php?media=warlock.gif) |
+| ![Unknowable](../.gitbook/assets/outfits/unknowable.gif) | ![Void Knight](../.gitbook/assets/outfits/voidknight.gif) | ![Warlock](../.gitbook/assets/outfits/warlock.gif) |
 
 | **Winter Warden**                                                                  | **Witch**                                                           |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| ![Winter Warden](https://wiki.soerpg.com/lib/exe/fetch.php?media=winterwarden.gif) | ![Witch](https://wiki.soerpg.com/lib/exe/fetch.php?media=witch.gif) |
+| ![Winter Warden](../.gitbook/assets/outfits/winterwarden.gif) | ![Witch](../.gitbook/assets/outfits/witch.gif) |
 
 #### Obtainable - Outfit doll <a href="#obtainable_-_outfit_doll" id="obtainable_-_outfit_doll"></a>
 
 | **Citizen (Basic)**                                                     | **Nobleman (Common)**                                                     | **Knight (Common)**                                                   |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ![Citizen](https://wiki.soerpg.com/lib/exe/fetch.php?media=citizen.gif) | ![Nobleman](https://wiki.soerpg.com/lib/exe/fetch.php?media=nobleman.gif) | ![Knight](https://wiki.soerpg.com/lib/exe/fetch.php?media=knight.gif) |
+| ![Citizen](../.gitbook/assets/outfits/citizen.gif) | ![Nobleman](../.gitbook/assets/outfits/nobleman.gif) | ![Knight](../.gitbook/assets/outfits/knight.gif) |
 
 | **Warrior (Common)**                                                    | **Barbarian (Common)**                                                      | **Brotherhood (Common)**                                                        |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![Warrior](https://wiki.soerpg.com/lib/exe/fetch.php?media=warrior.gif) | ![Barbarian](https://wiki.soerpg.com/lib/exe/fetch.php?media=barbarian.gif) | ![Brotherhood](https://wiki.soerpg.com/lib/exe/fetch.php?media=brotherhood.gif) |
+| ![Warrior](../.gitbook/assets/outfits/warrior.gif) | ![Barbarian](../.gitbook/assets/outfits/barbarian.gif) | ![Brotherhood](../.gitbook/assets/outfits/brotherhood.gif) |
 
 | **Warmaster (Common)**                                                      | **Deepling (Common)**                                                     | **Yalaharian (Common)**                                                       |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![Warmaster](https://wiki.soerpg.com/lib/exe/fetch.php?media=warmaster.gif) | ![Deepling](https://wiki.soerpg.com/lib/exe/fetch.php?media=deepling.gif) | ![Yalaharian](https://wiki.soerpg.com/lib/exe/fetch.php?media=yalaharian.gif) |
+| ![Warmaster](../.gitbook/assets/outfits/warmaster.gif) | ![Deepling](../.gitbook/assets/outfits/deepling.gif) | ![Yalaharian](../.gitbook/assets/outfits/yalaharian.gif) |
 
 | **Nightmare (Common)**                                                      | **Siege Master (Common)**                                                               | **Crystal Warlord (Rare)**                                                             |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Nightmare](https://wiki.soerpg.com/lib/exe/fetch.php?media=nightmare.gif) | ![Siege Master](https://wiki.soerpg.com/lib/exe/fetch.php?media=outfit_siegemaster.gif) | ![Crystal Warlord](https://wiki.soerpg.com/lib/exe/fetch.php?media=crystalwarlord.gif) |
+| ![Nightmare](../.gitbook/assets/outfits/nightmare.gif) | ![Siege Master](../.gitbook/assets/outfits/outfit_siegemaster.gif) | ![Crystal Warlord](../.gitbook/assets/outfits/crystalwarlord.gif) |
 
 | **Soil Guardian (Rare)**                                                           | **Demon Outfit (Rare)**                                                           | **Champion (Rare)**                                                       |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| ![Soil Guardian](https://wiki.soerpg.com/lib/exe/fetch.php?media=soilguardian.gif) | ![Demon Outfit](https://wiki.soerpg.com/lib/exe/fetch.php?media=demon_outfit.gif) | ![Champion](https://wiki.soerpg.com/lib/exe/fetch.php?media=champion.gif) |
+| ![Soil Guardian](../.gitbook/assets/outfits/soilguardian.gif) | ![Demon Outfit](../.gitbook/assets/outfits/demon_outfit.gif) | ![Champion](../.gitbook/assets/outfits/champion.gif) |
 
 | **Retro Warrior (Rare)**                                                           | **Sea Dog (Rare)**                                                     | **Rift Warrior (Rare)**                                                           |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![Retro Warrior](https://wiki.soerpg.com/lib/exe/fetch.php?media=retrowarrior.gif) | ![Sea Dog](https://wiki.soerpg.com/lib/exe/fetch.php?media=seadog.gif) | ![Rift Warrior](https://wiki.soerpg.com/lib/exe/fetch.php?media=rift_warrior.gif) |
+| ![Retro Warrior](../.gitbook/assets/outfits/retrowarrior.gif) | ![Sea Dog](../.gitbook/assets/outfits/seadog.gif) | ![Rift Warrior](../.gitbook/assets/outfits/rift_warrior.gif) |
 
 | **Arena Champion (Rare)**                                                            | **Retro Knight (Epic)**                                                          | **Makeshift Warrior (Epic)**                                                               |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| ![Arena Champion](https://wiki.soerpg.com/lib/exe/fetch.php?media=arenachampion.gif) | ![Retro Knight](https://wiki.soerpg.com/lib/exe/fetch.php?media=retroknight.gif) | ![Makeshift Warrior](https://wiki.soerpg.com/lib/exe/fetch.php?media=makeshiftwarrior.gif) |
+| ![Arena Champion](../.gitbook/assets/outfits/arenachampion.gif) | ![Retro Knight](../.gitbook/assets/outfits/retroknight.gif) | ![Makeshift Warrior](../.gitbook/assets/outfits/makeshiftwarrior.gif) |
 
 | **Mercenary (Epic)**                                                        | **Dream Warrior (Epic)**                                                                  | **Percht Raider (Epic)**                                                           |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| ![Mercenary](https://wiki.soerpg.com/lib/exe/fetch.php?media=mercenary.gif) | ![Dream Warrior](https://wiki.soerpg.com/lib/exe/fetch.php?media=outfit_dreamwarrior.gif) | ![Percht Raider](https://wiki.soerpg.com/lib/exe/fetch.php?media=perchtraider.gif) |
+| ![Mercenary](../.gitbook/assets/outfits/mercenary.gif) | ![Dream Warrior](../.gitbook/assets/outfits/outfit_dreamwarrior.gif) | ![Percht Raider](../.gitbook/assets/outfits/perchtraider.gif) |
 
 | **Jouster (Epic)**                                                      | **Lion of War (Legendary)**                                                   | **Dragon Slayer (Legendary)**                                                      |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| ![Jouster](https://wiki.soerpg.com/lib/exe/fetch.php?media=jouster.gif) | ![Lion of War](https://wiki.soerpg.com/lib/exe/fetch.php?media=lionofwar.gif) | ![Dragon Slayer](https://wiki.soerpg.com/lib/exe/fetch.php?media=dragonslayer.gif) |
+| ![Jouster](../.gitbook/assets/outfits/jouster.gif) | ![Lion of War](../.gitbook/assets/outfits/lionofwar.gif) | ![Dragon Slayer](../.gitbook/assets/outfits/dragonslayer.gif) |
 
 | **Revenant (Legendary)**                                                  | **Retro Hunter (Rare)**                                                          | **Trophy Hunter (Rare)**                                                           |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| ![Revenant](https://wiki.soerpg.com/lib/exe/fetch.php?media=revenant.gif) | ![Retro Hunter](https://wiki.soerpg.com/lib/exe/fetch.php?media=retrohunter.gif) | ![Trophy Hunter](https://wiki.soerpg.com/lib/exe/fetch.php?media=trophyhunter.gif) |
+| ![Revenant](../.gitbook/assets/outfits/revenant.gif) | ![Retro Hunter](../.gitbook/assets/outfits/retrohunter.gif) | ![Trophy Hunter](../.gitbook/assets/outfits/trophyhunter.gif) |
 
 | **Pirate (Rare)**                                                     | **Wayfarer (Rare)**                                                       | **Demon Hunter (Rare)**                                                          |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![Pirate](https://wiki.soerpg.com/lib/exe/fetch.php?media=pirate.gif) | ![Wayfarer](https://wiki.soerpg.com/lib/exe/fetch.php?media=wayfarer.gif) | ![Demon Hunter](https://wiki.soerpg.com/lib/exe/fetch.php?media=demonhunter.gif) |
+| ![Pirate](../.gitbook/assets/outfits/pirate.gif) | ![Wayfarer](../.gitbook/assets/outfits/wayfarer.gif) | ![Demon Hunter](../.gitbook/assets/outfits/demonhunter.gif) |
 
 | **Beastmaster (Rare)**                                                          | **Beggar (Rare)**                                                     | **Puppeteer (Rare)**                                                        |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Beastmaster](https://wiki.soerpg.com/lib/exe/fetch.php?media=beastmaster.gif) | ![Beggar](https://wiki.soerpg.com/lib/exe/fetch.php?media=beggar.gif) | ![Puppeteer](https://wiki.soerpg.com/lib/exe/fetch.php?media=puppeteer.gif) |
+| ![Beastmaster](../.gitbook/assets/outfits/beastmaster.gif) | ![Beggar](../.gitbook/assets/outfits/beggar.gif) | ![Puppeteer](../.gitbook/assets/outfits/puppeteer.gif) |
 
 | **Chaos Acolyte (Rare)**                                                                  | **Jersey (Rare)**                                                     | **Glooth Engineer (Rare)**                                                             |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Chaos Acolyte](https://wiki.soerpg.com/lib/exe/fetch.php?media=outfit_chaosacolyte.gif) | ![Jersey](https://wiki.soerpg.com/lib/exe/fetch.php?media=jersey.gif) | ![Glooth Engineer](https://wiki.soerpg.com/lib/exe/fetch.php?media=gloothengineer.gif) |
+| ![Chaos Acolyte](../.gitbook/assets/outfits/outfit_chaosacolyte.gif) | ![Jersey](../.gitbook/assets/outfits/jersey.gif) | ![Glooth Engineer](../.gitbook/assets/outfits/gloothengineer.gif) |
 
 | **Elementalist (Rare)**                                                                  | **Evoker (Rare)**                                                     | **Winter Warden (Rare)**                                                            |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| ![Elementalist](https://wiki.soerpg.com/lib/exe/fetch.php?media=outfit_elementalist.gif) | ![Evoker](https://wiki.soerpg.com/lib/exe/fetch.php?media=evoker.gif) | ![Winter Warden](https://wiki.soerpg.com/lib/exe/fetch.php?media=1winterwarden.gif) |
+| ![Elementalist](../.gitbook/assets/outfits/outfit_elementalist.gif) | ![Evoker](../.gitbook/assets/outfits/evoker.gif) | ![Winter Warden](../.gitbook/assets/outfits/1winterwarden.gif) |
 
 | **Retro Nobleman (Rare)**                                                            | **Sun Priest (Epic)**                                                        | **Trailblazer (Epic)**                                                          |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![Retro Nobleman](https://wiki.soerpg.com/lib/exe/fetch.php?media=retronobleman.gif) | ![Sun Priest](https://wiki.soerpg.com/lib/exe/fetch.php?media=sunpriest.gif) | ![Trailblazer](https://wiki.soerpg.com/lib/exe/fetch.php?media=trailblazer.gif) |
+| ![Retro Nobleman](../.gitbook/assets/outfits/retronobleman.gif) | ![Sun Priest](../.gitbook/assets/outfits/sunpriest.gif) | ![Trailblazer](../.gitbook/assets/outfits/trailblazer.gif) |
 
 | **Cave Explorer (Epic)**                                                           | **Newly Wed (Epic)**                                                              | **Insectoid (Epic)**                                                        |
 | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Cave Explorer](https://wiki.soerpg.com/lib/exe/fetch.php?media=caveexplorer.gif) | ![Newly Wed](https://wiki.soerpg.com/lib/exe/fetch.php?media=outfit_newlywed.gif) | ![Insectoid](https://wiki.soerpg.com/lib/exe/fetch.php?media=insectoid.gif) |
+| ![Cave Explorer](../.gitbook/assets/outfits/caveexplorer.gif) | ![Newly Wed](../.gitbook/assets/outfits/outfit_newlywed.gif) | ![Insectoid](../.gitbook/assets/outfits/insectoid.gif) |
 
 | **Afflicted (Epic)**                                                        | **Pharaoh (Epic)**                                                      | **Retro Summoner (Epic)**                                                            |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Afflicted](https://wiki.soerpg.com/lib/exe/fetch.php?media=afflicted.gif) | ![Pharaoh](https://wiki.soerpg.com/lib/exe/fetch.php?media=pharaoh.gif) | ![Retro Summoner](https://wiki.soerpg.com/lib/exe/fetch.php?media=retrosummoner.gif) |
+| ![Afflicted](../.gitbook/assets/outfits/afflicted.gif) | ![Pharaoh](../.gitbook/assets/outfits/pharaoh.gif) | ![Retro Summoner](../.gitbook/assets/outfits/retrosummoner.gif) |
 
 | **Retro Wizard (Epic)**                                                          | **Herbalist (Legendary)**                                                   | **Battle Mage (Legendary)**                                                    |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| ![Retro Wizard](https://wiki.soerpg.com/lib/exe/fetch.php?media=retrowizard.gif) | ![Herbalist](https://wiki.soerpg.com/lib/exe/fetch.php?media=herbalist.gif) | ![Battle Mage](https://wiki.soerpg.com/lib/exe/fetch.php?media=battlemage.gif) |
+| ![Retro Wizard](../.gitbook/assets/outfits/retrowizard.gif) | ![Herbalist](../.gitbook/assets/outfits/herbalist.gif) | ![Battle Mage](../.gitbook/assets/outfits/battlemage.gif) |
 
 | **Owl Keeper (Legendary)**                                                   | **Conjurer (Ultimate)**                                                   | **Sinister Archer (Ultimate)**                                                         |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ![Owl Keeper](https://wiki.soerpg.com/lib/exe/fetch.php?media=owlkeeper.gif) | ![Conjurer](https://wiki.soerpg.com/lib/exe/fetch.php?media=conjurer.gif) | ![Sinister Archer](https://wiki.soerpg.com/lib/exe/fetch.php?media=sinisterarcher.gif) |
+| ![Owl Keeper](../.gitbook/assets/outfits/owlkeeper.gif) | ![Conjurer](../.gitbook/assets/outfits/conjurer.gif) | ![Sinister Archer](../.gitbook/assets/outfits/sinisterarcher.gif) |
 
 | **Golden (Ultimate)**                                                 |
 | --------------------------------------------------------------------- |
-| ![Golden](https://wiki.soerpg.com/lib/exe/fetch.php?media=golden.gif) |
+| ![Golden](../.gitbook/assets/outfits/golden.gif) |
 
 **Special Outfits**
 

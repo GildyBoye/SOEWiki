@@ -43,7 +43,7 @@ icon: hand-holding-skull
 | Demonic Vial                                             | Boosts demonic/diabolic spawn rate                   | 20    |
 | Scroll of identification                                 | Used to identify unidentified items                  | 10    |
 | Gem box                                                  | Contains a random weapon upgrade gem                 | 30    |
-| [Item Box](https://wiki.soerpg.com/doku.php?id=item_box) | Contains 1 out of 250 items                          | 10    |
+| [Item Box](item-box.md)                                 | Contains 1 out of 250 items                          | 10    |
 | Crystal fossil                                           | Used for upgrading/enchanting items                  | 5     |
 | Upgrade catalyst                                         | Used to prevent an item from breaking when upgrading | 5     |
 | Crystal extractor                                        | Used for upgrading/enchanting items                  | 10    |

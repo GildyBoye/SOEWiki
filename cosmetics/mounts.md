@@ -46,57 +46,57 @@ Magma crawler - Glow wine - Zu, Red sorcerer or Red Sorcerer Boss Task 10x
 
 | **Magma Skull**                                                                 | **Obstinate Ox**                                                                  | **Crimson Fang**                                                                  |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![Magma+Skull](https://wiki.soerpg.com/lib/exe/fetch.php?media=magma_skull.gif) | ![Obstinate+Ox](https://wiki.soerpg.com/lib/exe/fetch.php?media=obstinate_ox.gif) | ![Crimson+Fang](https://wiki.soerpg.com/lib/exe/fetch.php?media=crimson_fang.gif) |
+| ![Magma+Skull](../.gitbook/assets/mounts/magma_skull.gif) | ![Obstinate+Ox](../.gitbook/assets/mounts/obstinate_ox.gif) | ![Crimson+Fang](../.gitbook/assets/mounts/crimson_fang.gif) |
 
 | **Brass Speckled Koi**                                                                        | **Wrathfire**                                                               | **Spirit of Purity**                                                                      |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| ![Brass+Speckled+Koi](https://wiki.soerpg.com/lib/exe/fetch.php?media=brass_speckled_koi.gif) | ![Wrathfire](https://wiki.soerpg.com/lib/exe/fetch.php?media=wrathfire.gif) | ![Spirit+of+Purity](https://wiki.soerpg.com/lib/exe/fetch.php?media=spirit_of_purity.gif) |
+| ![Brass+Speckled+Koi](../.gitbook/assets/mounts/brass_speckled_koi.gif) | ![Wrathfire](../.gitbook/assets/mounts/wrathfire.gif) | ![Spirit+of+Purity](../.gitbook/assets/mounts/spirit_of_purity.gif) |
 
 | **Skybreaker Pegasus**                                                                        | **Bog Tyrant**                                                                |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![Skybreaker+Pegasus](https://wiki.soerpg.com/lib/exe/fetch.php?media=skybreaker_pegasus.gif) | ![Bog+Tyrant](https://wiki.soerpg.com/lib/exe/fetch.php?media=bog_tyrant.gif) |
+| ![Skybreaker+Pegasus](../.gitbook/assets/mounts/skybreaker_pegasus.gif) | ![Bog+Tyrant](../.gitbook/assets/mounts/bog_tyrant.gif) |
 
 | **Ether Badger**                                                                  | **Flamesteed**                                                                | **Flying Divan**                                                                  |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ![Ether Badger](https://wiki.soerpg.com/lib/exe/fetch.php?media=ether_badger.gif) | ![Flamesteed](https://wiki.soerpg.com/lib/exe/fetch.php?media=flamesteed.gif) | ![Flying Divan](https://wiki.soerpg.com/lib/exe/fetch.php?media=flying_divan.gif) |
+| ![Ether Badger](../.gitbook/assets/mounts/ether_badger.gif) | ![Flamesteed](../.gitbook/assets/mounts/flamesteed.gif) | ![Flying Divan](../.gitbook/assets/mounts/flying_divan.gif) |
 
 | **Jade Lion**                                                               | **Magic Carpet**                                                                  | **Nightmarish Crocovile**                                                                           |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ![Jade Lion](https://wiki.soerpg.com/lib/exe/fetch.php?media=jade_lion.gif) | ![Magic Carpet](https://wiki.soerpg.com/lib/exe/fetch.php?media=magic_carpet.gif) | ![Nightmarish Crocovile](https://wiki.soerpg.com/lib/exe/fetch.php?media=nightmarish_crocovile.gif) |
+| ![Jade Lion](../.gitbook/assets/mounts/jade_lion.gif) | ![Magic Carpet](../.gitbook/assets/mounts/magic_carpet.gif) | ![Nightmarish Crocovile](../.gitbook/assets/mounts/nightmarish_crocovile.gif) |
 
 | **Savanna Ostrich**                                                                     | **Sea Devil**                                                               |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![Savanna Ostrich](https://wiki.soerpg.com/lib/exe/fetch.php?media=savanna_ostrich.gif) | ![Sea Devil](https://wiki.soerpg.com/lib/exe/fetch.php?media=sea_devil.gif) |
+| ![Savanna Ostrich](../.gitbook/assets/mounts/savanna_ostrich.gif) | ![Sea Devil](../.gitbook/assets/mounts/sea_devil.gif) |
 
 The following mounts are **obtainable in-game**:
 
 | **War Bear**                                                              | **Black Sheep**                                                                 | **War Horse**                                                               |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ![War Bear](https://wiki.soerpg.com/lib/exe/fetch.php?media=war_bear.gif) | ![Black Sheep](https://wiki.soerpg.com/lib/exe/fetch.php?media=black_sheep.gif) | ![War Horse](https://wiki.soerpg.com/lib/exe/fetch.php?media=war_horse.gif) |
+| ![War Bear](../.gitbook/assets/mounts/war_bear.gif) | ![Black Sheep](../.gitbook/assets/mounts/black_sheep.gif) | ![War Horse](../.gitbook/assets/mounts/war_horse.gif) |
 
 | **Tamed Panda**                                                                 | **Donkey**                                                            | **Kingly Deer**                                                                 |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![Tamed Panda](https://wiki.soerpg.com/lib/exe/fetch.php?media=tamed_panda.gif) | ![Donkey](https://wiki.soerpg.com/lib/exe/fetch.php?media=donkey.gif) | ![Kingly Deer](https://wiki.soerpg.com/lib/exe/fetch.php?media=kingly_deer.gif) |
+| ![Tamed Panda](../.gitbook/assets/mounts/tamed_panda.gif) | ![Donkey](../.gitbook/assets/mounts/donkey.gif) | ![Kingly Deer](../.gitbook/assets/mounts/kingly_deer.gif) |
 
 | **Ursagrodon**                                                               | **Racing Bird**                                                                | **Dromedary**                                                               |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| ![Ursagrodon](https://wiki.soerpg.com/lib/exe/fetch.php?media=ursagodon.gif) | ![Racing Bird](https://wiki.soerpg.com/lib/exe/fetch.php?media=racingbird.gif) | ![Dromedary](https://wiki.soerpg.com/lib/exe/fetch.php?media=dromedary.gif) |
+| ![Ursagrodon](../.gitbook/assets/mounts/ursagodon.gif) | ![Racing Bird](../.gitbook/assets/mounts/racingbird.gif) | ![Dromedary](../.gitbook/assets/mounts/dromedary.gif) |
 
 | **Rapid Boar**                                                                | **Widow Queen**                                                                 | **Lady Bug**                                                             |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| ![Rapid Boar](https://wiki.soerpg.com/lib/exe/fetch.php?media=rapid_boar.gif) | ![Widow Queen](https://wiki.soerpg.com/lib/exe/fetch.php?media=widow_queen.gif) | ![Lady Bug](https://wiki.soerpg.com/lib/exe/fetch.php?media=ladybug.gif) |
+| ![Rapid Boar](../.gitbook/assets/mounts/rapid_boar.gif) | ![Widow Queen](../.gitbook/assets/mounts/widow_queen.gif) | ![Lady Bug](../.gitbook/assets/mounts/ladybug.gif) |
 
 | **Scorpion King**                                                                   | **Uniwheel**                                                              | **Dragonling**                                                                |
 | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| ![Scorpion King](https://wiki.soerpg.com/lib/exe/fetch.php?media=scorpion_king.gif) | ![Uniwheel](https://wiki.soerpg.com/lib/exe/fetch.php?media=uniwheel.gif) | ![Dragonling](https://wiki.soerpg.com/lib/exe/fetch.php?media=dragonling.gif) |
+| ![Scorpion King](../.gitbook/assets/mounts/scorpion_king.gif) | ![Uniwheel](../.gitbook/assets/mounts/uniwheel.gif) | ![Dragonling](../.gitbook/assets/mounts/dragonling.gif) |
 
 | **Titanica**                                                              | **Undead Cavebear**                                                                     | **Draptor**                                                             |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| ![Titanica](https://wiki.soerpg.com/lib/exe/fetch.php?media=titanica.gif) | ![Undead Cavebear](https://wiki.soerpg.com/lib/exe/fetch.php?media=undead_cavebear.gif) | ![Draptor](https://wiki.soerpg.com/lib/exe/fetch.php?media=draptor.gif) |
+| ![Titanica](../.gitbook/assets/mounts/titanica.gif) | ![Undead Cavebear](../.gitbook/assets/mounts/undead_cavebear.gif) | ![Draptor](../.gitbook/assets/mounts/draptor.gif) |
 
 | **Midnight Panther**                                                                      | **Magma Crawler**                                                                   | **Manta Ray**                                                           |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| ![Midnight Panther](https://wiki.soerpg.com/lib/exe/fetch.php?media=midnight_panther.gif) | ![Magma Crawler](https://wiki.soerpg.com/lib/exe/fetch.php?media=magma_crawler.gif) | ![Manta Ray](https://wiki.soerpg.com/lib/exe/fetch.php?media=manta.gif) |
+| ![Midnight Panther](../.gitbook/assets/mounts/midnight_panther.gif) | ![Magma Crawler](../.gitbook/assets/mounts/magma_crawler.gif) | ![Manta Ray](../.gitbook/assets/mounts/manta.gif) |
 
 **Special Mounts**
 
