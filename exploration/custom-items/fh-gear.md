@@ -18,17 +18,17 @@
 
 | Item                 | Picture                                                                             | Info                                                                                                         |
 | -------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Kakdrak Hood         | ![Kakdrak Hood](<../../.gitbook/assets/items/kakdrak-hood.gif>)     | Arm 12<br>Magic Level +6<br>Critical 2% chance / +3% damage<br>Regen 1 MP / 1s<br>12.00 oz                |
-| Kakdrak Robe         | ![Kakdrak Robe](<../../.gitbook/assets/items/kakdrak-robe.gif>) | Arm 12<br>Magic Level +7<br>Critical 3% chance / +5% damage<br>Regen 1 MP / 1s<br>23.00 oz                |
-| Kakdrak Robe Bottoms | ![Kakdrak Robe Bottoms](<../../.gitbook/assets/items/kakdrak-robe-bottoms.gif>)     | Arm 12<br>Magic Level +6<br>Critical 3% chance / +4% damage<br>Protection physical +3%<br>Regen 1 MP / 1s<br>18.00 oz                |
+| Kakdrak Hood         | ![Kakdrak Hood](<../../.gitbook/assets/items/kakdrak-hood.png>)     | Arm 12<br>Magic Level +6<br>Critical 2% chance / +3% damage<br>Regen 1 MP / 1s<br>12.00 oz                |
+| Kakdrak Robe         | ![Kakdrak Robe](<../../.gitbook/assets/items/kakdrak-robe.png>) | Arm 12<br>Magic Level +7<br>Critical 3% chance / +5% damage<br>Regen 1 MP / 1s<br>23.00 oz                |
+| Kakdrak Robe Bottoms | ![Kakdrak Robe Bottoms](<../../.gitbook/assets/items/kakdrak-robe-bottoms.png>)     | Arm 12<br>Magic Level +6<br>Critical 3% chance / +4% damage<br>Protection physical +3%<br>Regen 1 MP / 1s<br>18.00 oz                |
 | Kakdrak Boots        | ![Kakdrak Boots](<../../.gitbook/assets/items/kakdrak-boots.png>)    | Arm 3<br>Magic Level +4, Speed +35<br>Life Leech 4% chance / 4%<br>Protection fire +5%, death +5%<br>Regen 1 MP / 2s<br>25.00 oz |
 
 **Wand/Spellbook**
 
 | Item                    | Picture                                                                         | Info                                                                                                         |
 | ----------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Wand of the Stars       | ![Wand Of The Stars](<../../.gitbook/assets/items/wand-of-the-stars.gif>) | Range 8<br>Magic Level +7<br>Critical 3% chance / +3% damage<br>15.00 oz<br>_250-350 damage @ +10_ |
-| Spellbook of Soul Steal | ![Spellbook Of Soul Steal](<../../.gitbook/assets/items/spellbook-of-soul-steal.gif>) | Def 20<br>Magic Level +6<br>Life Leech 5% chance / 5%<br>Protection physical +5%, death +8%<br>Regen 1 MP / 2s<br>17.00 oz                |
+| Wand of the Stars       | ![Wand Of The Stars](<../../.gitbook/assets/items/wand-of-the-stars.png>) | Range 8<br>Magic Level +7<br>Critical 3% chance / +3% damage<br>15.00 oz<br>_250-350 damage @ +10_ |
+| Spellbook of Soul Steal | ![Spellbook Of Soul Steal](<../../.gitbook/assets/items/spellbook-of-soul-steal.png>) | Def 20<br>Magic Level +6<br>Life Leech 5% chance / 5%<br>Protection physical +5%, death +8%<br>Regen 1 MP / 2s<br>17.00 oz                |
 
 #### Knight ⚔️ <a href="#knight" id="knight"></a>
 
@@ -57,7 +57,7 @@
 | -------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Soul Longsword | ![Soul Longsword](<../../.gitbook/assets/items/soul-longsword.png>)    | Atk 54, Def 30<br>Life Leech 12% chance / 12%, Attack Speed +0.15s<br>24.50 oz |
 | Zulmthu Axe    | ![Zulmthu Axe](<../../.gitbook/assets/items/zulmthu-axe.png>) | Atk 53, Def 36<br>One-handed +10<br>Attack Speed +0.20s<br>30.00 oz  |
-| Winterblade    | ![Winterblade](<../../.gitbook/assets/items/winterblade.gif>) | Atk 6 + 45 ice, Def 22 +4<br>One-handed +4<br>43.00 oz |
+| Winterblade    | ![Winterblade](<../../.gitbook/assets/items/winterblade.png>) | Atk 6 + 45 ice, Def 22 +4<br>One-handed +4<br>43.00 oz |
 
 **Two-Handed Weapons**
 
@@ -86,4 +86,4 @@
 | Item             | Picture                                                                                | Info                                                                                          |
 | ---------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Angelic Crossbow | ![Angelic Crossbow](<../../.gitbook/assets/items/angelic-crossbow.png>) | Atk 10, Range 6, Hit +6%<br>Distance +5<br>Attack Speed +0.20s<br>35.00 oz |
-| Magic Bow        | ![Magic Bow](<../../.gitbook/assets/items/magic-bow.gif>)   | Atk 9, Range 7, Hit +7%<br>Distance +7<br>Attack Speed +0.22s<br>47.00 oz   |
+| Magic Bow        | ![Magic Bow](<../../.gitbook/assets/items/magic-bow.png>)   | Atk 9, Range 7, Hit +7%<br>Distance +7<br>Attack Speed +0.22s<br>47.00 oz   |
