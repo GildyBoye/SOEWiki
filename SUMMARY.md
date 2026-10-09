@@ -75,7 +75,7 @@
 * [Custom Items](exploration/custom-items/README.md)
   * [Obsidian Gear](exploration/custom-items/obsidian-gear.md)
   * [FH Gear](exploration/custom-items/fh-gear.md)
-  * [Item Dump](exploration/custom-items/item-dump.md)
+  * [Item Browser](exploration/custom-items/item-dump.md)
 
 ## Rookgaard
 

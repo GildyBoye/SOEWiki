@@ -2,7 +2,7 @@
 
 To access the public trainers in Kazordoon you must finish the quest that Oin gives. Oin stands outside the entrance to the trainers in Kazordoon.
 
-![](https://wiki.soerpg.com/lib/exe/fetch.php?w=400\&tok=5220e4\&media=quests:public_trainers:public_trainers_entrance.png)
+![](../../.gitbook/assets/trainers/public_trainers_entrance.png)
 
 ```
 Player: Hi

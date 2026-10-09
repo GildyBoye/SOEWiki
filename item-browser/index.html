@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SoE Item Browser</title>
+<meta name="description" content="Every wearable item on Souls of Elysium: sortable stats, bonuses and protections.">
+<meta property="og:title" content="SoE Item Browser">
+<meta property="og:description" content="Every wearable item on Souls of Elysium: sortable stats, bonuses and protections.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://gildyboye.github.io/SOEWiki/item-browser/">
+<meta name="twitter:card" content="player">
+<meta name="twitter:title" content="SoE Item Browser">
+<meta name="twitter:player" content="https://gildyboye.github.io/SOEWiki/item-browser/">
+<meta name="twitter:player:width" content="1100">
+<meta name="twitter:player:height" content="800">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #ffffff; --surface: #f6f7f9; --surface-2: #eef0f3; --border: #e3e6ea;
+  --text: #1c1f24; --muted: #6a717c; --accent: #3a6fd8; --accent-soft: #e7eefc;
+  --pos: #1f8a4c; --neg: #c2413a;
+  --fire: #d9622b; --ice: #3a93c9; --energy: #8b55d6; --earth: #5c9a32; --death: #6d5a7a; --holy: #c99a1d; --physical: #7a7f88;
+  --row-hover: #f8f9fb;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15171b; --surface: #1d2025; --surface-2: #252931; --border: #2e333b;
+    --text: #e6e8eb; --muted: #9aa1ab; --accent: #7aa2f7; --accent-soft: #232f47;
+    --pos: #4cc282; --neg: #ef7b72; --row-hover: #1b1e23;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #15171b; --surface: #1d2025; --surface-2: #252931; --border: #2e333b;
+  --text: #e6e8eb; --muted: #9aa1ab; --accent: #7aa2f7; --accent-soft: #232f47;
+  --pos: #4cc282; --neg: #ef7b72; --row-hover: #1b1e23;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.5 Inter, system-ui, sans-serif; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 24px 16px 64px; }
+header h1 { font-size: 22px; margin: 0 0 4px; font-weight: 700; }
+header p { margin: 0 0 18px; color: var(--muted); }
+.controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+.search { flex: 1 1 260px; position: relative; }
+.search input { width: 100%; padding: 9px 12px 9px 34px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); color: var(--text); font: inherit; }
+.search input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.search svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); color: var(--muted); }
+select { padding: 9px 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); color: var(--text); font: inherit; }
+.tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+.tab { border: 1px solid var(--border); background: var(--bg); color: var(--text); border-radius: 999px; padding: 5px 11px; font: inherit; font-size: 13px; cursor: pointer; }
+.tab span { color: var(--muted); margin-left: 4px; font-size: 12px; }
+.tab:hover { background: var(--surface); }
+.tab[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.tab[aria-pressed="true"] span { color: var(--accent); }
+.meta { color: var(--muted); font-size: 13px; margin-bottom: 8px; }
+.table-wrap { border: 1px solid var(--border); border-radius: 10px; overflow: auto; max-height: 72vh; }
+table { border-collapse: collapse; width: 100%; min-width: 760px; }
+thead th { position: sticky; top: 0; z-index: 1; background: var(--surface); text-align: left; font-weight: 600; font-size: 12.5px; color: var(--muted); padding: 9px 10px; border-bottom: 1px solid var(--border); white-space: nowrap; user-select: none; }
+thead th.sortable { cursor: pointer; }
+thead th.sortable:hover { color: var(--text); }
+thead th.num { text-align: right; }
+thead th .arrow { display: inline-block; width: 10px; margin-left: 3px; color: var(--accent); }
+tbody td { padding: 6px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+tbody tr:last-child td { border-bottom: 0; }
+tbody tr:hover { background: var(--row-hover); }
+td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.icon { width: 52px; padding: 2px 4px 2px 8px; }
+.sprite { width: 44px; height: 44px; background-image: url(atlas.png); background-repeat: no-repeat; image-rendering: pixelated; }
+.name { font-weight: 600; }
+.sub { color: var(--muted); font-size: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.chip { font-size: 12px; padding: 1px 7px; border-radius: 6px; background: var(--surface-2); white-space: nowrap; }
+.chip.neg { color: var(--neg); }
+.el { font-weight: 600; text-transform: capitalize; }
+.el-fire { color: var(--fire); } .el-ice { color: var(--ice); } .el-energy { color: var(--energy); } .el-earth { color: var(--earth); }
+.el-death { color: var(--death); } .el-holy { color: var(--holy); } .el-physical { color: var(--physical); }
+.dim { color: var(--muted); }
+.note { color: var(--muted); font-size: 12px; font-style: italic; margin-top: 2px; max-width: 320px; }
+.empty { padding: 40px; text-align: center; color: var(--muted); }
+@media (max-width: 640px) { .wrap { padding: 16px 16px 48px; } header h1 { font-size: 19px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Item Browser</h1>
+    <p>Every wearable item on Souls of Elysium. Click a column to sort; click it again to reverse.</p>
+  </header>
+  <div class="controls">
+    <label class="search">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search items or bonuses (e.g. zephon, magic level, fire)" autocomplete="off">
+    </label>
+    <select id="prot" aria-label="Protection filter">
+      <option value="">Any protection</option>
+    </select>
+  </div>
+  <div class="tabs" id="tabs"></div>
+  <div class="meta" id="meta"></div>
+  <div class="table-wrap"><table><thead id="head"></thead><tbody id="body"></tbody></table></div>
+</div>
+<script>
+const CATS = ["All","Helmets","Armors","Legs","Boots","Shields","Swords","Axes","Clubs","Distance","Wands","Ammo","Amulets","Rings","Backpacks","Quivers","Pets"];
+const ARMOR = ["Helmets","Armors","Legs","Boots","Amulets","Rings","Pets"];
+const MELEE = ["Swords","Axes","Clubs"];
+const ELEMENTS = ["physical","fire","ice","energy","earth","death","holy","lifedrain","manadrain","drown","allelements","magic"];
+const ELEMENT_LABEL = { allelements: "all elements", lifedrain: "life drain", manadrain: "mana drain" };
+
+const sumProt = r => Object.values(r.prot || {}).reduce((a, b) => a + b, 0) || null;
+const bonusText = r => bonuses(r).map(b => b.text).join(" ");
+
+function bonuses(r) {
+  const out = [];
+  if (r.ml) out.push({ text: `Magic Level +${r.ml}` });
+  for (const [k, v] of Object.entries(r.skills || {})) out.push({ text: `${k} ${v > 0 ? "+" : ""}${v}`, neg: v < 0 });
+  if (r.speed) out.push({ text: `Speed +${r.speed}` });
+  if (r.hp) out.push({ text: `Max HP +${r.hp}` });
+  if (r.crit && (r.crit[0] || r.crit[1])) out.push({ text: r.crit[0] && r.crit[1] ? `Crit ${r.crit[0]}% / +${r.crit[1]}%` : r.crit[0] ? `Crit ${r.crit[0]}%` : `Crit dmg +${r.crit[1]}%` });
+  if (r.leech && (r.leech[0] || r.leech[1])) out.push({ text: `Life Leech ${r.leech[0] || 0}% / ${r.leech[1] || 0}%` });
+  if (r.aspd) out.push({ text: `Atk Speed +${(r.aspd / 1000).toFixed(2)}s` });
+  if (r.regen?.hp) out.push({ text: `+${r.regen.hp} HP/s` });
+  if (r.regen?.mp) out.push({ text: `+${r.regen.mp} MP/s` });
+  for (const [e, v] of Object.entries(r.dmg || {})) out.push({ text: `${ELEMENT_LABEL[e] || e} dmg +${v}%` });
+  if (r.hit) out.push({ text: `Hit +${r.hit}%` });
+  if (r.charges) out.push({ text: `${r.charges} charges` });
+  return out;
+}
+
+const chips = list => list.length ? `<div class="chips">${list.map(b => `<span class="chip${b.neg ? " neg" : ""}">${b.text}</span>`).join("")}</div>` : `<span class="dim">–</span>`;
+const n = v => v == null ? `<span class="dim">–</span>` : v;
+
+const COL = {
+  icon:   { label: "", cls: "icon", html: r => r.icon == null ? "" : `<div class="sprite" style="${spritePos(r.icon)}"></div>` },
+  name:   { label: "Name", sort: r => r.name, html: r => `<div class="name">${r.name}</div><div class="sub">${r.cat}${r.hands === 2 ? " · two-handed" : ""}</div>${r.note ? `<div class="note">${r.note}</div>` : ""}` },
+  atk:    { label: "Atk", num: true, sort: r => r.atk != null ? r.atk + (r.element?.[1] || 0) : null, html: r => r.atk == null ? n() : r.element ? `${r.atk} <span class="el el-${r.element[0]}">+${r.element[1]} ${r.element[0]}</span>` : r.atk },
+  def:    { label: "Def", num: true, sort: r => r.def != null ? r.def + (r.extradef || 0) : null, html: r => r.def == null ? n() : r.extradef ? `${r.def} <span class="dim">${r.extradef > 0 ? "+" : ""}${r.extradef}</span>` : r.def },
+  arm:    { label: "Arm", num: true, sort: r => r.arm, html: r => n(r.arm) },
+  range:  { label: "Range", num: true, sort: r => r.range, html: r => n(r.range) },
+  shoot:  { label: "Element", sort: r => r.shoot, html: r => r.shoot ? `<span class="el el-${elementOf(r.shoot)}">${r.shoot}</span>` : n() },
+  ml:     { label: "ML", num: true, sort: r => r.ml, html: r => r.ml ? `+${r.ml}` : n() },
+  aspd:   { label: "Atk speed", num: true, sort: r => r.aspd, html: r => r.aspd ? `+${(r.aspd / 1000).toFixed(2)}s` : n() },
+  bonus:  { label: "Bonuses", sort: r => bonuses(r).length || null, html: r => chips(bonuses(r)) },
+  prot:   { label: "Protection", sort: r => sumProt(r), html: r => chips(Object.entries(r.prot || {}).map(([e, v]) => ({ text: `${ELEMENT_LABEL[e] || e} ${v > 0 ? "+" : ""}${v}%`, neg: v < 0 }))) },
+  cap:    { label: "Slots", num: true, sort: r => r.cap, html: r => n(r.cap) },
+  ammo:   { label: "Ammo", sort: r => r.ammo, html: r => n(r.ammo) },
+  weight: { label: "Weight", num: true, sort: r => r.weight, html: r => r.weight == null ? n() : `${r.weight.toFixed(2)} oz` },
+};
+
+function columnsFor(cat) {
+  if (cat === "All") return ["icon","name","atk","def","arm","bonus","weight"];
+  if (ARMOR.includes(cat)) return ["icon","name","arm","bonus","prot","weight"];
+  if (cat === "Shields") return ["icon","name","def","arm","bonus","prot","weight"];
+  if (MELEE.includes(cat)) return ["icon","name","atk","def","aspd","bonus","weight"];
+  if (cat === "Distance") return ["icon","name","atk","range","ammo","bonus","weight"];
+  if (cat === "Wands") return ["icon","name","shoot","range","ml","bonus","weight"];
+  if (cat === "Ammo") return ["icon","name","atk","bonus","weight"];
+  return ["icon","name","cap","bonus","weight"];
+}
+
+const DEFAULT_SORT = { All: "name", Shields: "def", Distance: "atk", Wands: "ml", Ammo: "atk", Backpacks: "cap", Quivers: "cap" };
+const defaultSort = cat => DEFAULT_SORT[cat] || (ARMOR.includes(cat) ? "arm" : MELEE.includes(cat) ? "atk" : "name");
+
+function elementOf(shoot) {
+  for (const e of ["fire","ice","energy","earth","death","holy"]) if (shoot.toLowerCase().includes(e)) return e;
+  return shoot.includes("small") || shoot.includes("ice") ? "ice" : "physical";
+}
+
+let DATA, CELL, COLS, SCALE;
+const state = { cat: "All", q: "", prot: "", sort: "name", dir: 1 };
+const spritePos = i => `background-position:-${(i % COLS) * CELL * SCALE}px -${Math.floor(i / COLS) * CELL * SCALE}px;background-size:${COLS * CELL * SCALE}px auto`;
+
+function render() {
+  const cols = columnsFor(state.cat);
+  const q = state.q.toLowerCase().trim();
+  let rows = DATA.filter(r => (state.cat === "All" || r.cat === state.cat)
+    && (!state.prot || (r.prot && r.prot[state.prot] > 0))
+    && (!q || r._search.includes(q)));
+  const key = COL[state.sort]?.sort || COL.name.sort;
+  rows.sort((a, b) => {
+    const x = key(a), y = key(b);
+    if (x == null && y == null) return a.name.localeCompare(b.name);
+    if (x == null) return 1;
+    if (y == null) return -1;
+    const c = typeof x === "string" ? x.localeCompare(y) : x - y;
+    return c * state.dir || a.name.localeCompare(b.name);
+  });
+  document.getElementById("head").innerHTML = "<tr>" + cols.map(c => {
+    const col = COL[c];
+    const active = state.sort === c;
+    return `<th class="${col.sort ? "sortable" : ""} ${col.num ? "num" : ""}" data-col="${c}" ${col.sort ? `aria-sort="${active ? (state.dir > 0 ? "ascending" : "descending") : "none"}"` : ""}>${col.label}<span class="arrow">${active ? (state.dir > 0 ? "↑" : "↓") : ""}</span></th>`;
+  }).join("") + "</tr>";
+  document.getElementById("body").innerHTML = rows.length
+    ? rows.map(r => "<tr>" + cols.map(c => `<td class="${COL[c].cls || ""} ${COL[c].num ? "num" : ""}">${COL[c].html(r)}</td>`).join("") + "</tr>").join("")
+    : `<tr><td colspan="${cols.length}" class="empty">No items match.</td></tr>`;
+  document.getElementById("meta").textContent = `${rows.length.toLocaleString()} item${rows.length === 1 ? "" : "s"}`;
+  document.querySelectorAll(".tab").forEach(t => t.setAttribute("aria-pressed", t.dataset.cat === state.cat));
+}
+
+function setCat(cat) {
+  state.cat = cat;
+  state.sort = defaultSort(cat);
+  state.dir = COL[state.sort].num ? -1 : 1;
+  render();
+}
+
+fetch("items.json").then(r => r.json()).then(json => {
+  DATA = json.items; CELL = json.cell; COLS = json.cols; SCALE = 44 / CELL;
+  for (const r of DATA) r._search = `${r.name} ${r.cat} ${bonusText(r)} ${Object.keys(r.prot || {}).join(" ")} ${r.element?.[0] || ""} ${r.note || ""}`.toLowerCase();
+  const counts = Object.fromEntries(CATS.map(c => [c, c === "All" ? DATA.length : DATA.filter(r => r.cat === c).length]));
+  document.getElementById("tabs").innerHTML = CATS.filter(c => counts[c]).map(c => `<button class="tab" data-cat="${c}">${c}<span>${counts[c]}</span></button>`).join("");
+  document.getElementById("prot").innerHTML += ELEMENTS.filter(e => DATA.some(r => r.prot?.[e] > 0)).map(e => `<option value="${e}">Protects vs ${ELEMENT_LABEL[e] || e}</option>`).join("");
+  document.getElementById("tabs").addEventListener("click", e => { const t = e.target.closest(".tab"); if (t) setCat(t.dataset.cat); });
+  document.getElementById("head").addEventListener("click", e => {
+    const th = e.target.closest("th.sortable"); if (!th) return;
+    const c = th.dataset.col;
+    if (state.sort === c) state.dir *= -1; else { state.sort = c; state.dir = COL[c].num ? -1 : 1; }
+    render();
+  });
+  document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
+  document.getElementById("prot").addEventListener("change", e => { state.prot = e.target.value; render(); });
+  render();
+});
+</script>
+</body>
+</html>

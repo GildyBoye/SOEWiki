@@ -18,10 +18,10 @@ icon: shield-heart
 * Level 200+ (As of November 2024)
 * Includes a full set of gear for each Vocation.
 
-⚔️[Item List](item-dump.md)⚔️
+⚔️[Item Browser](item-dump.md)⚔️
 
-* Info dump of items.
-* Not all items listed.
+* Every wearable item, searchable and sortable by any stat.
+* Icons and stats straight from the game's item data.
 
 ***
 

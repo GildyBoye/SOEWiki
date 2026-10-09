@@ -25,7 +25,7 @@ Higher levels with good melee weapon can try to kill in close combat since his m
 
 **NOTE:** After killing Giant Skeleton there is a high chance that it appears as a Demonic Giant Skeleton (around 50% of the times). This demonic version is really powerful with more damage and **A LOT** more HP. You can apply the same strategy since demonic version is also a bit slow but expect a really long battle.
 
-![](https://wiki.soerpg.com/lib/exe/fetch.php?media=demonic_giant_skeleton.png)
+![](../../.gitbook/assets/rook-bosses/demonic_giant_skeleton.png)
 
 #### Loot <a href="#loot" id="loot"></a>
 

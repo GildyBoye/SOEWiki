@@ -9,8 +9,8 @@
 
 | Item          | Picture                                                                                                              | Info                                                                                                         |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Kakdrak Boots | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=fc0994\&media=bootw.png)                                     | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=d60873\&media=kadrakk_boots_stats_2024.png)_1mp/2s_ |
-| Angelic Boots | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=53f1b6\&media=custom_items:frosthaven:angelic_boots_img.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=190\&tok=24bfad\&media=angelic_boots_2024.png)_1m/2s_        |
+| Kakdrak Boots | ![Kakdrak Boots](<../../.gitbook/assets/items/kakdrak-boots.png>)                                     | Arm 3<br>Magic Level +4, Speed +35<br>Life Leech 4% chance / 4%<br>Protection fire +5%, death +5%<br>Regen 1 MP / 2s<br>25.00 oz |
+| Angelic Boots | ![Angelic Boots](<../../.gitbook/assets/items/angelic-boots.png>) | Arm 3<br>Distance +2, Speed +40<br>Critical 3% chance / +3% damage<br>Regen 1 MP / 2s<br>12.00 oz        |
 
 #### Sorcerer/Druid 🪄 <a href="#sorcerer_druid" id="sorcerer_druid"></a>
 
@@ -18,17 +18,17 @@
 
 | Item                 | Picture                                                                             | Info                                                                                                         |
 | -------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Kakdrak Hood         | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=f52ae9\&media=hood.png)     | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=944114\&media=ststs_hood.png)_1mp/s_                |
-| Kakdrak Robe         | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=41258c\&media=hood_pic.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=44b7d8\&media=stats_body.png)_1mp/s_                |
-| Kakdrak Robe Bottoms | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=be8778\&media=legs.png)     | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=b931ac\&media=legs_stats.png)_1mp/s_                |
-| Kakdrak Boots        | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=fc0994\&media=bootw.png)    | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=d60873\&media=kadrakk_boots_stats_2024.png)_1mp/2s_ |
+| Kakdrak Hood         | ![Kakdrak Hood](<../../.gitbook/assets/items/kakdrak-hood.gif>)     | Arm 12<br>Magic Level +6<br>Critical 2% chance / +3% damage<br>Regen 1 MP / 1s<br>12.00 oz                |
+| Kakdrak Robe         | ![Kakdrak Robe](<../../.gitbook/assets/items/kakdrak-robe.gif>) | Arm 12<br>Magic Level +7<br>Critical 3% chance / +5% damage<br>Regen 1 MP / 1s<br>23.00 oz                |
+| Kakdrak Robe Bottoms | ![Kakdrak Robe Bottoms](<../../.gitbook/assets/items/kakdrak-robe-bottoms.gif>)     | Arm 12<br>Magic Level +6<br>Critical 3% chance / +4% damage<br>Protection physical +3%<br>Regen 1 MP / 1s<br>18.00 oz                |
+| Kakdrak Boots        | ![Kakdrak Boots](<../../.gitbook/assets/items/kakdrak-boots.png>)    | Arm 3<br>Magic Level +4, Speed +35<br>Life Leech 4% chance / 4%<br>Protection fire +5%, death +5%<br>Regen 1 MP / 2s<br>25.00 oz |
 
 **Wand/Spellbook**
 
 | Item                    | Picture                                                                         | Info                                                                                                         |
 | ----------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Wand of the Stars       | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=391258\&media=wand.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=92e826\&media=wand_stats.png)_250-350 damage @ +10_ |
-| Spellbook of Soul Steal | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=ed6a9a\&media=book.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=870f8c\&media=book_stats.png)_1m/2s_                |
+| Wand of the Stars       | ![Wand Of The Stars](<../../.gitbook/assets/items/wand-of-the-stars.gif>) | Range 8<br>Magic Level +7<br>Critical 3% chance / +3% damage<br>15.00 oz<br>_250-350 damage @ +10_ |
+| Spellbook of Soul Steal | ![Spellbook Of Soul Steal](<../../.gitbook/assets/items/spellbook-of-soul-steal.gif>) | Def 20<br>Magic Level +6<br>Life Leech 5% chance / 5%<br>Protection physical +5%, death +8%<br>Regen 1 MP / 2s<br>17.00 oz                |
 
 #### Knight ⚔️ <a href="#knight" id="knight"></a>
 
@@ -36,37 +36,37 @@
 
 | Item              | Picture                                                                                 | Info                                                                                              |
 | ----------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Gurukk Helmet     | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=923b30\&media=gurukkhelmet.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=9b7a79\&media=gurruk_helmet_stats.png)   |
-| Gurukk Chestplate | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=aeea2b\&media=gurukkarmor.png)  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=119e39\&media=chestpalte_stats.png)      |
-| Gurukk Platelegs  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=7f7155\&media=gurukklegs.png)   | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=6ea5e6\&media=platelegs_stats.png)       |
-| Gurukk Boots      | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=1cdef3\&media=gurukkboots.png)  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=4d4be6\&media=gurukkbootsstatus2024.png) |
+| Gurukk Helmet     | ![Gurukk Helmet](<../../.gitbook/assets/items/gurukk-helmet.png>) | Arm 10<br>Two-handed +5<br>Critical +4% damage, Attack Speed +0.03s<br>Protection physical +4%<br>35.00 oz   |
+| Gurukk Chestplate | ![Gurukk Chestplate](<../../.gitbook/assets/items/gurukk-chestplate.png>)  | Arm 20<br>Two-handed +8<br>Critical +5% damage, Attack Speed +0.05s<br>Protection physical +6%<br>75.00 oz      |
+| Gurukk Platelegs  | ![Gurukk Platelegs](<../../.gitbook/assets/items/gurukk-platelegs.png>)   | Arm 11<br>Two-handed +7<br>Critical +4% damage, Attack Speed +0.04s<br>Protection physical +5%<br>42.00 oz       |
+| Gurukk Boots      | ![Gurukk Boots](<../../.gitbook/assets/items/gurukk-boots.png>)  | Arm 4<br>Speed +30<br>Critical 2% chance / +5% damage<br>Protection physical +5%<br>20.00 oz |
 
 **Zulmthu Set (1 Handed Weapon Set)**
 
 | Item           | Picture                                                                                       | Info                                                                                                  |
 | -------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Zulmthu Helmet | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=61831e\&media=zulthmu_helmet.png)     | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=a4270e\&media=zulmthu_helmet_stats_2024.png) |
-| Zulmthu Armor  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=927655\&media=armor.png)              | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=45ead6\&media=zulmthu_armor_stats.png)       |
-| Zulmthu Legs   | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=ab2df9\&media=zulthmu_legs.png)       | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=e98967\&media=zulmthu_legs_stats_2024.png)   |
-| Zulmthu Boots  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=b956b2\&media=zulmthu_boots_2024.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=6d3933\&media=zulmthu_boots_stats_2024.png)  |
-| Zulmthu Shield | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=200e79\&media=zulmthu_shield1.png)    | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=fbddba\&media=zulmthu_shield2.png)           |
+| Zulmthu Helmet | ![Zulmthu Helmet](<../../.gitbook/assets/items/zulmthu-helmet.png>)     | Arm 12<br>One-handed +5<br>Critical 3% chance, Attack Speed +0.02s<br>Protection physical +5%<br>70.00 oz |
+| Zulmthu Armor  | ![Zulmthu Armor](<../../.gitbook/assets/items/zulmthu-armor.png>)              | Arm 20<br>One-handed +6<br>Critical 3% chance, Attack Speed +0.03s<br>Protection physical +8%<br>100.00 oz       |
+| Zulmthu Legs   | ![Zulmthu Legs](<../../.gitbook/assets/items/zulmthu-legs.png>)       | Arm 12<br>One-handed +6<br>Critical 2% chance, Attack Speed +0.02s<br>Protection physical +6%<br>70.00 oz   |
+| Zulmthu Boots  | ![Zulmthu Boots](<../../.gitbook/assets/items/zulmthu-boots.png>) | Arm 5<br>Speed +30<br>Critical 2% chance, Attack Speed +0.02s<br>Protection physical +5%<br>42.00 oz  |
+| Zulmthu Shield | ![Zulmthu Shield](<../../.gitbook/assets/items/zulmthu-shield.png>)    | Def 44<br>One-handed +5, Max HP +320<br>Critical 3% chance, Attack Speed +0.05s<br>Protection physical +7%<br>78.00 oz           |
 
 **One-Handed Weapons**
 
 | Item           | Picture                                                                                | Info                                                                                                |
 | -------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Soul Longsword | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=a60070\&media=soulword.png)    | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=7e199d\&media=soulongsword_stats_2024.png) |
-| Zulmthu Axe    | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=147027\&media=zulmthu_wea.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=9134a6\&media=zulmthu_axe_stats_2024.png)  |
-| Winterblade    | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=27c76c\&media=winterblade.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=175\&tok=2059ab\&media=winterblade_status_2024.png) |
+| Soul Longsword | ![Soul Longsword](<../../.gitbook/assets/items/soul-longsword.png>)    | Atk 54, Def 30<br>Life Leech 12% chance / 12%, Attack Speed +0.15s<br>24.50 oz |
+| Zulmthu Axe    | ![Zulmthu Axe](<../../.gitbook/assets/items/zulmthu-axe.png>) | Atk 53, Def 36<br>One-handed +10<br>Attack Speed +0.20s<br>30.00 oz  |
+| Winterblade    | ![Winterblade](<../../.gitbook/assets/items/winterblade.gif>) | Atk 6 + 45 ice, Def 22 +4<br>One-handed +4<br>43.00 oz |
 
 **Two-Handed Weapons**
 
 | Item             | Picture                                                                                          | Info                                                                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| Kakdrak Godsword | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=354091\&media=kakdrak_godsword.png)      | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=b0f2b7\&media=kakdrak_godsword_stats.png)      |
-| Zephon Godsword  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=2290a0\&media=zephon_godsword_2024.png)  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=205\&tok=916b9d\&media=zephongodsword.png)              |
-| Gurukk Godsword  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=4758cb\&media=gurukk_godsword_2024.png)  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=7218ce\&media=gurukk_godsword_stats_2024.png)  |
-| Zulmthu Godsword | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=62c9cc\&media=zulmthu_godsword_2024.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=e87593\&media=zulmthu_godsword_stats_2024.png) |
+| Kakdrak Godsword | ![Kakdrak Godsword](<../../.gitbook/assets/items/kakdrak-godsword.png>)      | Atk 35 + 35 fire, Def 15<br>Critical 5% chance / +5% damage<br>80.00 oz      |
+| Zephon Godsword  | ![Zephon Godsword](<../../.gitbook/assets/items/zephon-godsword.png>)  | Atk 35 + 35 energy, Def 15<br>Critical 5% chance / +5% damage<br>80.00 oz              |
+| Gurukk Godsword  | ![Gurukk Godsword](<../../.gitbook/assets/items/gurukk-godsword.png>)  | Atk 70, Def 15<br>Critical 5% chance / +5% damage<br>80.00 oz  |
+| Zulmthu Godsword | ![Zulmthu Godsword](<../../.gitbook/assets/items/zulmthu-godsword.png>) | Atk 35 + 35 ice, Def 15<br>Critical 5% chance / +5% damage<br>80.00 oz |
 
 #### Paladin 🏹 <a href="#paladin" id="paladin"></a>
 
@@ -76,14 +76,14 @@
 
 | Item          | Picture                                                                                                              | Info                                                                                                 |
 | ------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Zephon Helmet | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=0690e0\&media=zephnon_helmet.png)                            | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=abf364\&media=zephon_helmet_stats_2024.png) |
-| Zephon Armor  | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=92c9cc\&media=zephnon_armor.png)                             | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=dd8b22\&media=zephon_armor_stats_2024.png)  |
-| Zephon Legs   | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=ba9dc7\&media=zephnon_legs.png)                              | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=4bbd9a\&media=zephon_legs_stats_2024.png)   |
-| Angelic Boots | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=53f1b6\&media=custom_items:frosthaven:angelic_boots_img.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=190\&tok=24bfad\&media=angelic_boots_2024.png)       |
+| Zephon Helmet | ![Zephon Helmet](<../../.gitbook/assets/items/zephon-helmet.png>)                            | Arm 10<br>Distance +4<br>Critical 3% chance, Attack Speed +0.05s<br>Protection physical +4%<br>21.00 oz |
+| Zephon Armor  | ![Zephon Armor](<../../.gitbook/assets/items/zephon-armor.png>)                             | Arm 17<br>Distance +6<br>Critical 5% chance, Attack Speed +0.07s<br>Protection physical +5%<br>22.00 oz  |
+| Zephon Legs   | ![Zephon Legs](<../../.gitbook/assets/items/zephon-legs.png>)                              | Arm 10<br>Distance +4<br>Critical 4% chance, Attack Speed +0.06s<br>Protection physical +4%<br>20.00 oz   |
+| Angelic Boots | ![Angelic Boots](<../../.gitbook/assets/items/angelic-boots.png>) | Arm 3<br>Distance +2, Speed +40<br>Critical 3% chance / +3% damage<br>Regen 1 MP / 2s<br>12.00 oz       |
 
 **Weapons**
 
 | Item             | Picture                                                                                | Info                                                                                          |
 | ---------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Angelic Crossbow | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=12c8d5\&media=angelic_bow.png) | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=d0bcba\&media=angelic_bow_stats.png) |
-| Magic Bow        | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=50\&tok=1b275d\&media=magic_bow.png)   | ![](https://wiki.soerpg.com/lib/exe/fetch.php?w=200\&tok=cd3f7a\&media=magic_bow_stats.png)   |
+| Angelic Crossbow | ![Angelic Crossbow](<../../.gitbook/assets/items/angelic-crossbow.png>) | Atk 10, Range 6, Hit +6%<br>Distance +5<br>Attack Speed +0.20s<br>35.00 oz |
+| Magic Bow        | ![Magic Bow](<../../.gitbook/assets/items/magic-bow.gif>)   | Atk 9, Range 7, Hit +7%<br>Distance +7<br>Attack Speed +0.22s<br>47.00 oz   |
