@@ -1,89 +1,93 @@
 # FH Gear
 
-### Frostheaven Gear <a href="#frostheaven_gear" id="frostheaven_gear"></a>
-
 * Frostheaven Gear is available for all vocations.
 * Frostheaven has a level 200 requirement (as of November 2024).
 
-#### Any Vocation <a href="#any_vocation" id="any_vocation"></a>
+{% tabs %}
 
-| Item          | Picture                                                                                                              | Info                                                                                                         |
-| ------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Kakdrak Boots | ![Kakdrak Boots](<../../.gitbook/assets/items/kakdrak-boots.png>)                                     | Arm 3<br>Magic Level +4, Speed +35<br>Life Leech 4% chance / 4%<br>Protection fire +5%, death +5%<br>Regen 1 MP / 2s<br>25.00 oz |
-| Angelic Boots | ![Angelic Boots](<../../.gitbook/assets/items/angelic-boots.png>) | Arm 3<br>Distance +2, Speed +40<br>Critical 3% chance / +3% damage<br>Regen 1 MP / 2s<br>12.00 oz        |
+{% tab title="Any Vocation" %}
+| | Item | Arm | Bonuses | Protection | Weight |
+| - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/kakdrak-boots.png" alt="" width="40"> | **Kakdrak Boots** | 3 | Magic Level +4<br>Speed +35<br>Life Leech 4% / 4%<br>+0.5 MP/s | Fire +5%<br>Death +5% | 25.00 oz |
+| <img src="../../.gitbook/assets/items/angelic-boots.png" alt="" width="40"> | **Angelic Boots** | 3 | Distance +2<br>Speed +40<br>Crit 3% / +3%<br>+0.5 MP/s | – | 12.00 oz |
+{% endtab %}
 
-#### Sorcerer/Druid 🪄 <a href="#sorcerer_druid" id="sorcerer_druid"></a>
+{% tab title="Sorcerer & Druid" %}
+#### Kakdrak Set
 
-* Kakdrak Set pieces give mana regeneration.
+Kakdrak Set pieces give mana regeneration.
 
-| Item                 | Picture                                                                             | Info                                                                                                         |
-| -------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Kakdrak Hood         | ![Kakdrak Hood](<../../.gitbook/assets/items/kakdrak-hood.png>)     | Arm 12<br>Magic Level +6<br>Critical 2% chance / +3% damage<br>Regen 1 MP / 1s<br>12.00 oz                |
-| Kakdrak Robe         | ![Kakdrak Robe](<../../.gitbook/assets/items/kakdrak-robe.png>) | Arm 12<br>Magic Level +7<br>Critical 3% chance / +5% damage<br>Regen 1 MP / 1s<br>23.00 oz                |
-| Kakdrak Robe Bottoms | ![Kakdrak Robe Bottoms](<../../.gitbook/assets/items/kakdrak-robe-bottoms.png>)     | Arm 12<br>Magic Level +6<br>Critical 3% chance / +4% damage<br>Protection physical +3%<br>Regen 1 MP / 1s<br>18.00 oz                |
-| Kakdrak Boots        | ![Kakdrak Boots](<../../.gitbook/assets/items/kakdrak-boots.png>)    | Arm 3<br>Magic Level +4, Speed +35<br>Life Leech 4% chance / 4%<br>Protection fire +5%, death +5%<br>Regen 1 MP / 2s<br>25.00 oz |
+| | Item | Arm | Bonuses | Protection | Weight |
+| - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/kakdrak-hood.png" alt="" width="40"> | **Kakdrak Hood** | 12 | Magic Level +6<br>Crit 2% / +3%<br>+1.0 MP/s | – | 12.00 oz |
+| <img src="../../.gitbook/assets/items/kakdrak-robe.png" alt="" width="40"> | **Kakdrak Robe** | 12 | Magic Level +7<br>Crit 3% / +5%<br>+1.0 MP/s | – | 23.00 oz |
+| <img src="../../.gitbook/assets/items/kakdrak-robe-bottoms.png" alt="" width="40"> | **Kakdrak Robe Bottoms** | 12 | Magic Level +6<br>Crit 3% / +4%<br>+1.0 MP/s | Physical +3% | 18.00 oz |
+| <img src="../../.gitbook/assets/items/kakdrak-boots.png" alt="" width="40"> | **Kakdrak Boots** | 3 | Magic Level +4<br>Speed +35<br>Life Leech 4% / 4%<br>+0.5 MP/s | Fire +5%<br>Death +5% | 25.00 oz |
 
-**Wand/Spellbook**
+#### Wand & Spellbook
 
-| Item                    | Picture                                                                         | Info                                                                                                         |
-| ----------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Wand of the Stars       | ![Wand Of The Stars](<../../.gitbook/assets/items/wand-of-the-stars.png>) | Range 8<br>Magic Level +7<br>Critical 3% chance / +3% damage<br>15.00 oz<br>_250-350 damage @ +10_ |
-| Spellbook of Soul Steal | ![Spellbook Of Soul Steal](<../../.gitbook/assets/items/spellbook-of-soul-steal.png>) | Def 20<br>Magic Level +6<br>Life Leech 5% chance / 5%<br>Protection physical +5%, death +8%<br>Regen 1 MP / 2s<br>17.00 oz                |
+| | Item | Element | Def | Range | Bonuses | Protection | Weight |
+| - | - | - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/wand-of-the-stars.png" alt="" width="40"> | **Wand Of The Stars**<br>_250-350 damage @ +10_ | yellowdart | – | 8 | Magic Level +7<br>Crit 3% / +3% | – | 15.00 oz |
+| <img src="../../.gitbook/assets/items/spellbook-of-soul-steal.png" alt="" width="40"> | **Spellbook Of Soul Steal** | – | 20 | – | Magic Level +6<br>Life Leech 5% / 5%<br>+0.5 MP/s | Physical +5%<br>Death +8% | 17.00 oz |
+{% endtab %}
 
-#### Knight ⚔️ <a href="#knight" id="knight"></a>
+{% tab title="Knight" %}
+#### Gurukk Set (two-handed)
 
-**Gurruk Set (2 Handed Weapon Set)**
+| | Item | Arm | Bonuses | Protection | Weight |
+| - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/gurukk-helmet.png" alt="" width="40"> | **Gurukk Helmet** | 10 | Two-handed +5<br>Crit damage +4%<br>Attack Speed +0.03s | Physical +4% | 35.00 oz |
+| <img src="../../.gitbook/assets/items/gurukk-chestplate.png" alt="" width="40"> | **Gurukk Chestplate** | 20 | Two-handed +8<br>Crit damage +5%<br>Attack Speed +0.05s | Physical +6% | 75.00 oz |
+| <img src="../../.gitbook/assets/items/gurukk-platelegs.png" alt="" width="40"> | **Gurukk Platelegs** | 11 | Two-handed +7<br>Crit damage +4%<br>Attack Speed +0.04s | Physical +5% | 42.00 oz |
+| <img src="../../.gitbook/assets/items/gurukk-boots.png" alt="" width="40"> | **Gurukk Boots** | 4 | Speed +30<br>Crit 2% / +5% | Physical +5% | 20.00 oz |
 
-| Item              | Picture                                                                                 | Info                                                                                              |
-| ----------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Gurukk Helmet     | ![Gurukk Helmet](<../../.gitbook/assets/items/gurukk-helmet.png>) | Arm 10<br>Two-handed +5<br>Critical +4% damage, Attack Speed +0.03s<br>Protection physical +4%<br>35.00 oz   |
-| Gurukk Chestplate | ![Gurukk Chestplate](<../../.gitbook/assets/items/gurukk-chestplate.png>)  | Arm 20<br>Two-handed +8<br>Critical +5% damage, Attack Speed +0.05s<br>Protection physical +6%<br>75.00 oz      |
-| Gurukk Platelegs  | ![Gurukk Platelegs](<../../.gitbook/assets/items/gurukk-platelegs.png>)   | Arm 11<br>Two-handed +7<br>Critical +4% damage, Attack Speed +0.04s<br>Protection physical +5%<br>42.00 oz       |
-| Gurukk Boots      | ![Gurukk Boots](<../../.gitbook/assets/items/gurukk-boots.png>)  | Arm 4<br>Speed +30<br>Critical 2% chance / +5% damage<br>Protection physical +5%<br>20.00 oz |
+#### Zulmthu Set (one-handed)
 
-**Zulmthu Set (1 Handed Weapon Set)**
+| | Item | Def | Arm | Bonuses | Protection | Weight |
+| - | - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/zulmthu-helmet.png" alt="" width="40"> | **Zulmthu Helmet** | – | 12 | One-handed +5<br>Crit 3%<br>Attack Speed +0.02s | Physical +5% | 70.00 oz |
+| <img src="../../.gitbook/assets/items/zulmthu-armor.png" alt="" width="40"> | **Zulmthu Armor** | – | 20 | One-handed +6<br>Crit 3%<br>Attack Speed +0.03s | Physical +8% | 100.00 oz |
+| <img src="../../.gitbook/assets/items/zulmthu-legs.png" alt="" width="40"> | **Zulmthu Legs** | – | 12 | One-handed +6<br>Crit 2%<br>Attack Speed +0.02s | Physical +6% | 70.00 oz |
+| <img src="../../.gitbook/assets/items/zulmthu-boots.png" alt="" width="40"> | **Zulmthu Boots** | – | 5 | Speed +30<br>Crit 2%<br>Attack Speed +0.02s | Physical +5% | 42.00 oz |
+| <img src="../../.gitbook/assets/items/zulmthu-shield.png" alt="" width="40"> | **Zulmthu Shield** | 44 | – | One-handed +5<br>Max HP +320<br>Crit 3%<br>Attack Speed +0.05s | Physical +7% | 78.00 oz |
 
-| Item           | Picture                                                                                       | Info                                                                                                  |
-| -------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Zulmthu Helmet | ![Zulmthu Helmet](<../../.gitbook/assets/items/zulmthu-helmet.png>)     | Arm 12<br>One-handed +5<br>Critical 3% chance, Attack Speed +0.02s<br>Protection physical +5%<br>70.00 oz |
-| Zulmthu Armor  | ![Zulmthu Armor](<../../.gitbook/assets/items/zulmthu-armor.png>)              | Arm 20<br>One-handed +6<br>Critical 3% chance, Attack Speed +0.03s<br>Protection physical +8%<br>100.00 oz       |
-| Zulmthu Legs   | ![Zulmthu Legs](<../../.gitbook/assets/items/zulmthu-legs.png>)       | Arm 12<br>One-handed +6<br>Critical 2% chance, Attack Speed +0.02s<br>Protection physical +6%<br>70.00 oz   |
-| Zulmthu Boots  | ![Zulmthu Boots](<../../.gitbook/assets/items/zulmthu-boots.png>) | Arm 5<br>Speed +30<br>Critical 2% chance, Attack Speed +0.02s<br>Protection physical +5%<br>42.00 oz  |
-| Zulmthu Shield | ![Zulmthu Shield](<../../.gitbook/assets/items/zulmthu-shield.png>)    | Def 44<br>One-handed +5, Max HP +320<br>Critical 3% chance, Attack Speed +0.05s<br>Protection physical +7%<br>78.00 oz           |
+#### One-Handed Weapons
 
-**One-Handed Weapons**
+| | Item | Atk | Def | Bonuses | Weight |
+| - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/soul-longsword.png" alt="" width="40"> | **Soul Longsword** | 54 | 30 | Life Leech 12% / 12%<br>Attack Speed +0.15s | 24.50 oz |
+| <img src="../../.gitbook/assets/items/zulmthu-axe.png" alt="" width="40"> | **Zulmthu Axe** | 53 | 36 | One-handed +10<br>Attack Speed +0.20s | 30.00 oz |
+| <img src="../../.gitbook/assets/items/winterblade.png" alt="" width="40"> | **Winterblade** | 6 + 45 ice | 22 +4 | One-handed +4 | 43.00 oz |
 
-| Item           | Picture                                                                                | Info                                                                                                |
-| -------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Soul Longsword | ![Soul Longsword](<../../.gitbook/assets/items/soul-longsword.png>)    | Atk 54, Def 30<br>Life Leech 12% chance / 12%, Attack Speed +0.15s<br>24.50 oz |
-| Zulmthu Axe    | ![Zulmthu Axe](<../../.gitbook/assets/items/zulmthu-axe.png>) | Atk 53, Def 36<br>One-handed +10<br>Attack Speed +0.20s<br>30.00 oz  |
-| Winterblade    | ![Winterblade](<../../.gitbook/assets/items/winterblade.png>) | Atk 6 + 45 ice, Def 22 +4<br>One-handed +4<br>43.00 oz |
+#### Two-Handed Weapons
 
-**Two-Handed Weapons**
+| | Item | Atk | Def | Bonuses | Weight |
+| - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/kakdrak-godsword.png" alt="" width="40"> | **Kakdrak Godsword** | 35 + 35 fire | 15 | Crit 5% / +5% | 80.00 oz |
+| <img src="../../.gitbook/assets/items/zephon-godsword.png" alt="" width="40"> | **Zephon Godsword** | 35 + 35 energy | 15 | Crit 5% / +5% | 80.00 oz |
+| <img src="../../.gitbook/assets/items/gurukk-godsword.png" alt="" width="40"> | **Gurukk Godsword** | 70 | 15 | Crit 5% / +5% | 80.00 oz |
+| <img src="../../.gitbook/assets/items/zulmthu-godsword.png" alt="" width="40"> | **Zulmthu Godsword** | 35 + 35 ice | 15 | Crit 5% / +5% | 80.00 oz |
+{% endtab %}
 
-| Item             | Picture                                                                                          | Info                                                                                                    |
-| ---------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| Kakdrak Godsword | ![Kakdrak Godsword](<../../.gitbook/assets/items/kakdrak-godsword.png>)      | Atk 35 + 35 fire, Def 15<br>Critical 5% chance / +5% damage<br>80.00 oz      |
-| Zephon Godsword  | ![Zephon Godsword](<../../.gitbook/assets/items/zephon-godsword.png>)  | Atk 35 + 35 energy, Def 15<br>Critical 5% chance / +5% damage<br>80.00 oz              |
-| Gurukk Godsword  | ![Gurukk Godsword](<../../.gitbook/assets/items/gurukk-godsword.png>)  | Atk 70, Def 15<br>Critical 5% chance / +5% damage<br>80.00 oz  |
-| Zulmthu Godsword | ![Zulmthu Godsword](<../../.gitbook/assets/items/zulmthu-godsword.png>) | Atk 35 + 35 ice, Def 15<br>Critical 5% chance / +5% damage<br>80.00 oz |
+{% tab title="Paladin" %}
+#### Zephon Set
 
-#### Paladin 🏹 <a href="#paladin" id="paladin"></a>
+| | Item | Arm | Bonuses | Protection | Weight |
+| - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/zephon-helmet.png" alt="" width="40"> | **Zephon Helmet** | 10 | Distance +4<br>Crit 3%<br>Attack Speed +0.05s | Physical +4% | 21.00 oz |
+| <img src="../../.gitbook/assets/items/zephon-armor.png" alt="" width="40"> | **Zephon Armor** | 17 | Distance +6<br>Crit 5%<br>Attack Speed +0.07s | Physical +5% | 22.00 oz |
+| <img src="../../.gitbook/assets/items/zephon-legs.png" alt="" width="40"> | **Zephon Legs** | 10 | Distance +4<br>Crit 4%<br>Attack Speed +0.06s | Physical +4% | 20.00 oz |
+| <img src="../../.gitbook/assets/items/angelic-boots.png" alt="" width="40"> | **Angelic Boots** | 3 | Distance +2<br>Speed +40<br>Crit 3% / +3%<br>+0.5 MP/s | – | 12.00 oz |
 
-* Paladin has a Bow and Crossbow option.
+#### Weapons
 
-**Zephon Set**
+Paladins can use either the bow or the crossbow.
 
-| Item          | Picture                                                                                                              | Info                                                                                                 |
-| ------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Zephon Helmet | ![Zephon Helmet](<../../.gitbook/assets/items/zephon-helmet.png>)                            | Arm 10<br>Distance +4<br>Critical 3% chance, Attack Speed +0.05s<br>Protection physical +4%<br>21.00 oz |
-| Zephon Armor  | ![Zephon Armor](<../../.gitbook/assets/items/zephon-armor.png>)                             | Arm 17<br>Distance +6<br>Critical 5% chance, Attack Speed +0.07s<br>Protection physical +5%<br>22.00 oz  |
-| Zephon Legs   | ![Zephon Legs](<../../.gitbook/assets/items/zephon-legs.png>)                              | Arm 10<br>Distance +4<br>Critical 4% chance, Attack Speed +0.06s<br>Protection physical +4%<br>20.00 oz   |
-| Angelic Boots | ![Angelic Boots](<../../.gitbook/assets/items/angelic-boots.png>) | Arm 3<br>Distance +2, Speed +40<br>Critical 3% chance / +3% damage<br>Regen 1 MP / 2s<br>12.00 oz       |
+| | Item | Atk | Range | Bonuses | Weight |
+| - | - | - | - | - | - |
+| <img src="../../.gitbook/assets/items/angelic-crossbow.png" alt="" width="40"> | **Angelic Crossbow** | 10 | 6 | Distance +5<br>Attack Speed +0.20s<br>Hit +6% | 35.00 oz |
+| <img src="../../.gitbook/assets/items/magic-bow.png" alt="" width="40"> | **Magic Bow** | 9 | 7 | Distance +7<br>Attack Speed +0.22s<br>Hit +7% | 47.00 oz |
+{% endtab %}
 
-**Weapons**
-
-| Item             | Picture                                                                                | Info                                                                                          |
-| ---------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Angelic Crossbow | ![Angelic Crossbow](<../../.gitbook/assets/items/angelic-crossbow.png>) | Atk 10, Range 6, Hit +6%<br>Distance +5<br>Attack Speed +0.20s<br>35.00 oz |
-| Magic Bow        | ![Magic Bow](<../../.gitbook/assets/items/magic-bow.png>)   | Atk 9, Range 7, Hit +7%<br>Distance +7<br>Attack Speed +0.22s<br>47.00 oz   |
+{% endtabs %}
