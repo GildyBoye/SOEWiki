@@ -5,6 +5,8 @@
 General Ironhorn is one of the most hardest boss you will face in Rookgaard. He is the boss of the Massive Minotaurs
 
 * Prerequisites: Kill 400 Massive Minotaurs.
+* Health: 20,000
+* Experience: 20,000
 
 <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,4 +28,52 @@ Don't forget to take the 2 chests in the left side of the room once you finish t
 
 #### Loot <a href="#loot" id="loot"></a>
 
-General Ironhorn may vary, but some good items in Rook are dropped by him: Crusader Helmet, Devil Helmet, Dark Armor, Taurus Mace, etc.
+General Ironhorn always drops Meat, Minotaur Leather, Platinum Coin and Shark. Rare drops include Enchanted Spear, Crossbow and Nose Ring. Full loot table below.
+
+<details>
+
+<summary>Full loot table (39 items)</summary>
+
+| Item                  | Chance | Max |
+| --------------------- | -----: | --: |
+| Meat                  | Always |   7 |
+| Minotaur Leather      | Always |   2 |
+| Platinum Coin         | Always |  30 |
+| Shark                 | Always |   3 |
+| Two-handed Ring       | 25.55% |   1 |
+| Blood Herb            |    20% |   1 |
+| Explosion Rune        |    20% |   5 |
+| Gem Box               |    20% |   1 |
+| Item Box              |    20% |   1 |
+| Ultimate Healing Rune |    20% |   3 |
+| Small Diamond         |  19.8% |   3 |
+| Viking Helmet         |  18.9% |   1 |
+| Small Ruby            |  17.8% |   5 |
+| Iron Hammer           |    15% |   1 |
+| Red Piece Of Cloth    |    15% |   1 |
+| Gold Ingot            |    12% |   2 |
+| Upgrade Crystal       |    10% |   2 |
+| Shovel                |     8% |   1 |
+| Taurus Mace           |     8% |   1 |
+| Giant Ruby            |     7% |   1 |
+| Minotaur Doll         |   5.5% |   1 |
+| Steel Shield          |  5.25% |   1 |
+| Iron Helmet           |     5% |   1 |
+| Blessing Scroll       |   4.6% |   1 |
+| Obsidian Knife        |   4.5% |   1 |
+| Watch                 |   3.7% |   1 |
+| Brass Armor           |   3.5% |   1 |
+| Viking Shield         |  3.25% |   1 |
+| Devil Helmet          |   3.2% |   1 |
+| Blue Gem              |   2.9% |   1 |
+| Red Gem               |  2.85% |   1 |
+| Yellow Gem            |  2.71% |   1 |
+| Ring Of Healing       |  2.41% |   1 |
+| Minotaur Trophy       |  2.28% |   1 |
+| Dark Armor            |  2.22% |   1 |
+| Gold Ring             |   2.2% |   1 |
+| Nose Ring             |     2% |   1 |
+| Crossbow              |   1.2% |   1 |
+| Enchanted Spear       |     1% |   3 |
+
+</details>

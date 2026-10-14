@@ -16,13 +16,17 @@ On top of the regular NPCs shops located on the city and the surroundings there 
 
 Bo, basically buys most of the creature products dropped from Rookgaard monsters (e.g: Minotaur leathers, minotaur horns…). Make sure to loot them while hunting since you will be able to sell them and make good profits.
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (3 items)</summary>
 
 | Item                  | Price |
 | --------------------- | ----: |
 | Blessed Wooden Stake  | 6,500 |
 | Flask Of Rust Remover |   100 |
 | Obsidian Knife        | 4,000 |
+
+</details>
 
 <details>
 
@@ -290,13 +294,17 @@ Bo, basically buys most of the creature products dropped from Rookgaard monsters
 
 Marrow doesn't buy anything, but he sells important items in Rookgaard.
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (3 items)</summary>
 
 | Item                     |  Price |
 | ------------------------ | -----: |
 | Simple Arrow Spell       |  8,000 |
 | Light Magic Missile Rune |  5,000 |
 | Destroy Field Rune       | 50,000 |
+
+</details>
 
 * The Simple arrow scroll will allow you to learn the Spell to conjure arrows in Rookgaard.
 * Destroy Field rune is need at some point during the Sword of Fury quest.
@@ -313,7 +321,9 @@ Marrow doesn't buy anything, but he sells important items in Rookgaard.
 
 Aelar, basically buys gems and other valuables at good prices, here is the list of items that this NPC buys.
 
-**Buys (you sell)**
+<details>
+
+<summary>Buys (you sell) (17 items)</summary>
 
 | Item             |  Price |
 | ---------------- | -----: |
@@ -334,6 +344,8 @@ Aelar, basically buys gems and other valuables at good prices, here is the list 
 | Wedding Ring     |    500 |
 | Yellow Gem       |  5,000 |
 | Yellow Spellwand | 10,000 |
+
+</details>
 
 ### Blackheart <a href="#blackheart" id="blackheart"></a>
 
@@ -514,7 +526,9 @@ The regular traders around the city. Prices are in gold coins.
 
 ### Al Dee <a href="#al_dee" id="al_dee"></a>
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (11 items)</summary>
 
 | Item                     | Price |
 | ------------------------ | ----: |
@@ -530,7 +544,11 @@ The regular traders around the city. Prices are in gold coins.
 | Torch                    |     2 |
 | Worm                     |     1 |
 
-**Buys (you sell)**
+</details>
+
+<details>
+
+<summary>Buys (you sell) (3 items)</summary>
 
 | Item                   | Price |
 | ---------------------- | ----: |
@@ -538,9 +556,13 @@ The regular traders around the city. Prices are in gold coins.
 | Rope                   |     8 |
 | Shovel                 |     2 |
 
+</details>
+
 ### Billy <a href="#billy" id="billy"></a>
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (4 items)</summary>
 
 | Item   | Price |
 | ------ | ----: |
@@ -549,7 +571,11 @@ The regular traders around the city. Prices are in gold coins.
 | Ham    |     8 |
 | Meat   |     5 |
 
-**Buys (you sell)**
+</details>
+
+<details>
+
+<summary>Buys (you sell) (9 items)</summary>
 
 | Item     | Price |
 | -------- | ----: |
@@ -563,9 +589,13 @@ The regular traders around the city. Prices are in gold coins.
 | Meat     |     2 |
 | Salmon   |     2 |
 
+</details>
+
 ### Dixi <a href="#dixi" id="dixi"></a>
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (17 items)</summary>
 
 | Item                   | Price |
 | ---------------------- | ----: |
@@ -587,7 +617,11 @@ The regular traders around the city. Prices are in gold coins.
 | Studded Shield         |    50 |
 | Wooden Shield          |    15 |
 
-**Buys (you sell)**
+</details>
+
+<details>
+
+<summary>Buys (you sell) (18 items)</summary>
 
 | Item           | Price |
 | -------------- | ----: |
@@ -609,6 +643,8 @@ The regular traders around the city. Prices are in gold coins.
 | Studded Shield |    16 |
 | Viking Helmet  |    25 |
 | Wooden Shield  |     3 |
+
+</details>
 
 ### Edvard <a href="#edvard" id="edvard"></a>
 
@@ -702,15 +738,21 @@ The regular traders around the city. Prices are in gold coins.
 
 ### Gilion <a href="#gilion" id="gilion"></a>
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (1 item)</summary>
 
 | Item              | Price |
 | ----------------- | ----: |
 | Primitive Pickaxe | 1,500 |
 
+</details>
+
 ### Grizzly Adams <a href="#grizzly_adams" id="grizzly_adams"></a>
 
-**Buys (you sell)**
+<details>
+
+<summary>Buys (you sell) (16 items)</summary>
 
 | Item               |  Price |
 | ------------------ | -----: |
@@ -731,14 +773,20 @@ The regular traders around the city. Prices are in gold coins.
 | Stuffed Dragon     |  6,000 |
 | Wolf Trophy        |  3,000 |
 
+</details>
+
 ### Hyacinth <a href="#hyacinth" id="hyacinth"></a>
 
-**Buys (you sell)**
+<details>
+
+<summary>Buys (you sell) (2 items)</summary>
 
 | Item               | Price |
 | ------------------ | ----: |
 | Empty Potion Flask |     5 |
 | Vial               |     5 |
+
+</details>
 
 ### Lee'Delle <a href="#lee_delle" id="lee_delle"></a>
 
@@ -825,14 +873,20 @@ The regular traders around the city. Prices are in gold coins.
 
 ### Lily <a href="#lily" id="lily"></a>
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (2 items)</summary>
 
 | Item                | Price |
 | ------------------- | ----: |
 | Antidote Rune       |    50 |
 | Small Health Potion |    20 |
 
-**Buys (you sell)**
+</details>
+
+<details>
+
+<summary>Buys (you sell) (3 items)</summary>
 
 | Item               | Price |
 | ------------------ | ----: |
@@ -840,19 +894,29 @@ The regular traders around the city. Prices are in gold coins.
 | Exploding Cookie   |     1 |
 | Vial               |     5 |
 
+</details>
+
 ### Nevik <a href="#nevik" id="nevik"></a>
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (1 item)</summary>
 
 | Item                   | Price |
 | ---------------------- | ----: |
 | Beginner's Fishing Rod |    70 |
 
-**Buys (you sell)**
+</details>
+
+<details>
+
+<summary>Buys (you sell) (1 item)</summary>
 
 | Item | Price |
 | ---- | ----: |
 | Fish |     3 |
+
+</details>
 
 ### Norma <a href="#norma" id="norma"></a>
 
@@ -954,7 +1018,9 @@ The regular traders around the city. Prices are in gold coins.
 
 ### Obi <a href="#obi" id="obi"></a>
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (16 items)</summary>
 
 | Item                   | Price |
 | ---------------------- | ----: |
@@ -975,7 +1041,11 @@ The regular traders around the city. Prices are in gold coins.
 | Sickle                 |     8 |
 | Spear                  |    10 |
 
-**Buys (you sell)**
+</details>
+
+<details>
+
+<summary>Buys (you sell) (15 items)</summary>
 
 | Item        | Price |
 | ----------- | ----: |
@@ -995,9 +1065,13 @@ The regular traders around the city. Prices are in gold coins.
 | Spear       |     3 |
 | Sword       |    25 |
 
+</details>
+
 ### Tom <a href="#tom" id="tom"></a>
 
-**Buys (you sell)**
+<details>
+
+<summary>Buys (you sell) (6 items)</summary>
 
 | Item             | Price |
 | ---------------- | ----: |
@@ -1008,9 +1082,13 @@ The regular traders around the city. Prices are in gold coins.
 | Minotaur Leather |    12 |
 | Wolf Paw         |     7 |
 
+</details>
+
 ### Willie <a href="#willie" id="willie"></a>
 
-**Sells (you buy)**
+<details>
+
+<summary>Sells (you buy) (4 items)</summary>
 
 | Item   | Price |
 | ------ | ----: |
@@ -1019,7 +1097,11 @@ The regular traders around the city. Prices are in gold coins.
 | Ham    |     8 |
 | Meat   |     5 |
 
-**Buys (you sell)**
+</details>
+
+<details>
+
+<summary>Buys (you sell) (8 items)</summary>
 
 | Item   | Price |
 | ------ | ----: |
@@ -1031,3 +1113,5 @@ The regular traders around the city. Prices are in gold coins.
 | Ham    |     4 |
 | Meat   |     2 |
 | Salmon |     2 |
+
+</details>

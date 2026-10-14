@@ -5,10 +5,10 @@
 * Neptulos event is a weekly event every Saturday at 2:30PM EST (7:30PM GMT) on all servers.&#x20;
 * It is a safe event so there is no death loss. If your health reaches 0, you‘re teleported to a lake with several whirlpools which you must swim into one of them to return to the main arena.
 * You must be level 20 or above to participate.
+* Neptulos has 1,200,000 health and gives 1,500,000 experience, split between everyone who damages it.
+* Neptulos has no fixed loot table. Rewards are rolled for each player based on participation.
 * To join the event simply watch for the in game announcements that start an hour before the event. 5 minutes before it begins the announcements will change to say "To join the event type !Neptulos" Simply go into any PZ and say the command in default game chat and you will be teleported to the event arena.
 * To get rewards from the event all you have to do is damage the boss. The more you participate the more items you can potentially get. Each player's loot is rolled based upon participation and RNG before being sent to you Depot Inbox in a Moon backpack.
-
-
 
 ### Boss Strat
 
@@ -23,10 +23,6 @@
 <figure><img src="../../.gitbook/assets/image (193).png" alt="" width="283"><figcaption></figcaption></figure>
 
 * To exit the arena after the boss is dead simply walk into the blue teleporter in the middle of the arena. It may be hard to see due to monster corpses. This will teleport you to Thais temple.
-
-
-
-
 
 ### Potential Rewards
 

@@ -3,6 +3,8 @@
 Teleskor is the boss of the skeletons in Rookgaard. It spawns randomly (typically only 1 per day) and looks like a pink skeleton with some sparklings on it.
 
 * Prerequisites: None
+* Health: 3,080
+* Experience: 3,070
 
 <figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,4 +22,33 @@ He is not really fast so you can easily run around the room or if you have good 
 
 #### Loot <a href="#loot" id="loot"></a>
 
-Teleskor loot may vary from some platinum coins, gold ingot, etc.
+Teleskor always drops Gold Coin and Pelvis Bone. Full loot table below.
+
+<details>
+
+<summary>Full loot table (8 items)</summary>
+
+| Item          | Chance | Max |
+| ------------- | -----: | --: |
+| Gold Coin     | Always | 350 |
+| Pelvis Bone   | Always |   1 |
+| Mace          | 72.73% |   1 |
+| Viking Helmet | 72.73% |   1 |
+| Brass Shield  | 45.45% |   1 |
+| Torch         | 36.36% |   1 |
+| Hatchet       | 27.27% |   1 |
+| Sword         | 27.27% |   1 |
+
+</details>
+
+#### Raid Version <a href="#raid_version" id="raid_version"></a>
+
+When Teleskor spawns from a raid, it can also drop:
+
+* Boots Of Haste
+* Boots Of Strong Haste
+* Gem Box
+* Giant Amethyst
+* Giant Topaz
+* Gold Ingot
+* Ring Of Souls

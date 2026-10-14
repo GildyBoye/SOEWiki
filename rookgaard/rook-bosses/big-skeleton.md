@@ -3,6 +3,8 @@
 The Giant Skeleton is a big skeleton in Rookgaard, usually considered a boss itself since it spawns randomly (typically only 1 per day) and it's location may vary.
 
 * Prerequisites: None
+* Health: 7,000
+* Experience: 7,000
 
 <figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,4 +31,48 @@ Higher levels with good melee weapon can try to kill in close combat since his m
 
 #### Loot <a href="#loot" id="loot"></a>
 
-The Giant Skeleton loot may vary from some platinum coins, gold ingot, etc.
+The Giant Skeleton always drops Gold Ingot and Torch. Rare drops include Boots Of Strong Haste, Ring Of Souls and Chain Armor (g). Full loot table below.
+
+<details>
+
+<summary>Full loot table (35 items)</summary>
+
+| Item                  | Chance | Max |
+| --------------------- | -----: | --: |
+| Gold Ingot            | Always |   1 |
+| Torch                 | Always |   1 |
+| Small Ruby            |    70% |   5 |
+| Pick                  |  37.8% |   1 |
+| Big Bone              |    25% |   1 |
+| Brass Shield          |    24% |   1 |
+| Sword                 |    24% |   1 |
+| Gem Box               |    20% |   1 |
+| Bone Sword            |    10% |   1 |
+| Leather Legs          |    10% |   1 |
+| Might Ring            |     7% |   1 |
+| Bone Shield           |     4% |   1 |
+| Longsword             |     4% |   1 |
+| Iron Helmet           |   3.7% |   1 |
+| Ice Cube              |   2.3% |   1 |
+| Broadsword            |     2% |   1 |
+| Battle Axe            |   1.5% |   1 |
+| Royal Spear           |   1.2% |   3 |
+| Voodoo Doll           |   1.2% |   1 |
+| Dark Shield           |  1.12% |   1 |
+| Brass Armor           |     1% |   1 |
+| Chain Legs            |     1% |   1 |
+| Giant Amethyst        |     1% |   1 |
+| Giant Topaz           |     1% |   1 |
+| Green Gem             |     1% |   1 |
+| Soldier Helmet        |     1% |   1 |
+| Time Ring             |     1% |   1 |
+| Morning Star          |   0.6% |   1 |
+| Guardian Shield       |   0.4% |   1 |
+| Boots Of Haste        |   0.3% |   1 |
+| Viking Helmet (g)     |   0.3% |   1 |
+| Chain Armor (g)       |   0.1% |   1 |
+| Sudden Death Rune     |   0.1% |   1 |
+| Boots Of Strong Haste |  0.07% |   1 |
+| Ring Of Souls         |  0.07% |   1 |
+
+</details>

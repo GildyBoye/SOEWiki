@@ -33,20 +33,20 @@ icon: fishing-rod
 
 | Mana Fish                                                          | Level req | Average                      | Min       | Max      | Weight   |
 | ------------------------------------------------------------------ | --------- | ---------------------------- | --------- | -------- | -------- |
-|  ![](<../../.gitbook/assets/image (588).png>)Sea Turtle            | 90        | 204,6                        | 166       | 250      | ?        |
+|  ![](<../../.gitbook/assets/image (588).png>)Sea Turtle            | 90        | 204,6                        | 166       | 250      | 2.80 oz. |
 | ![](<../../.gitbook/assets/image (589).png>) Sea Bass              | 70        | 130.18                       | 93        | 160      | 3.00 oz. |
 |  ![](<../../.gitbook/assets/image (590).png>)Swordfish             | 51        | 78.75                        | 60        | 100      | 3.00 oz. |
 | ![](<../../.gitbook/assets/image (591).png>) Salmon                | 35        | 34.98                        | 23        | 49       | 2.50 oz. |
 | Health Fish                                                        | Level req | Average                      | Min       | Max      | Weight   |
-| ![](<../../.gitbook/assets/image (592).png>) Manta Ray             | 90        | 246.57                       | 207       | 293      | ?        |
-| ![](<../../.gitbook/assets/image (593).png>) Shark                 | 70        | 166.66                       | 133       | 205      | ?        |
+| ![](<../../.gitbook/assets/image (592).png>) Manta Ray             | 90        | 246.57                       | 207       | 293      | 2.70 oz. |
+| ![](<../../.gitbook/assets/image (593).png>) Shark                 | 70        | 166.66                       | 133       | 205      | 3.00 oz. |
 |  ![](<../../.gitbook/assets/image (594).png>)Pike                  | 40        | 85                           | 67        | 103      | 3.00 oz. |
 |  ![](<../../.gitbook/assets/image (595).png>)Rainbow Trout         | 25        | 48.5                         | 37        | 60       | 2.00 oz. |
 |  ![](<../../.gitbook/assets/image (596).png>)Snow Crab             | 35        | 39                           | 28        | 50       | 3.80 oz. |
 |  ![](<../../.gitbook/assets/image (598).png>)Crab                  | 20        | 23.5                         | 17        | 30       | 1.00 oz. |
 | Food Fish                                                          | Level req | Duration                     | Regen/Oz  | Weight   |          |
-| ![](<../../.gitbook/assets/image (599).png>) Monkfish              | 90        | 20 min                       | ?         | ?        |          |
-| ![](<../../.gitbook/assets/image (600).png>) Catfish               | 70        | 15 min                       | ?         | ?        |          |
+| ![](<../../.gitbook/assets/image (599).png>) Monkfish              | 90        | 20 min                       | ?         | ?        | 2.00 oz. |
+| ![](<../../.gitbook/assets/image (600).png>) Catfish               | 70        | 15 min                       | ?         | ?        | 1.50 oz. |
 | ![](<../../.gitbook/assets/image (601).png>) Kingfish              | 51        | 10 min                       | 5 min     | 2.00 oz. |          |
 | ![](<../../.gitbook/assets/image (602).png>) Silver Fish           | 25        | 5 min                        | 1.79 min  | 2.80 oz. |          |
 | ![](<../../.gitbook/assets/image (603).png>) Fish                  | 20        | ?                            | ?         | 5.20 oz. |          |

@@ -56,7 +56,7 @@ Elves
 
 Ember Beetle
 
-Frost troll
+Frost Troll
 
 Ghost
 
@@ -68,17 +68,17 @@ Larva
 
 Leaf Golem
 
-Minitaur mage
+Minotaur Mage
 
 Minotaur
 
-Minotaur archer
+Minotaur Archer
 
-Minotaur guard
+Minotaur Guard
 
 Orc
 
-Orc spearman
+Orc Spearman
 
 Poison Spider
 
@@ -100,7 +100,7 @@ Wild Warrior
 
 Witch
 
-spider
+Spider
 
 Trolls
 
@@ -134,7 +134,7 @@ Djinns
 
 Dragon
 
-Dwarf Geromancer
+Dwarf Geomancer
 
 Fiery Beetle
 
@@ -230,7 +230,7 @@ Hydra
 
 Infernalist
 
-Juggerrnaut
+Juggernaut
 
 Lava Dragon
 
